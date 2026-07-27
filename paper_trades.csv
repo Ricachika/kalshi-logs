@@ -1,0 +1,2 @@
+ticker,side,contracts,entry_price,entry_ts,exit_price,exit_ts,exit_reason,fees,pnl
+KXBTC15M-26JUL271245-45,yes,10,96,1785170216,100,1785170718,settlement,0.03,0.37
