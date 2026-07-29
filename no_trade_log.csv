@@ -737,3 +737,34 @@ ts,ticker,side,price,risk_score,reasons
 1785298025,KXBTC15M-26JUL290015-15,no,96,30,only 30s of confirmation
 1785298036,KXBTC15M-26JUL290015-15,no,96,30,only 40s of confirmation
 1785298046,KXBTC15M-26JUL290015-15,no,97,30,only 51s of confirmation
+1785299234,KXBTC15M-26JUL290030-30,yes,96,30,weak cushion (dist/vol ratio 1.19); only 0s of confirmation
+1785299244,KXBTC15M-26JUL290030-30,yes,96,30,weak cushion (dist/vol ratio 1.50); only 10s of confirmation
+1785299254,KXBTC15M-26JUL290030-30,yes,98,55,weak cushion (dist/vol ratio 1.61); only 20s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1785299900,KXBTC15M-26JUL290045-45,yes,95,55,only 51s of confirmation; choppy window (7 crossings of 50c)
+1785299910,KXBTC15M-26JUL290045-45,yes,98,50,choppy window (7 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785299920,KXBTC15M-26JUL290045-45,yes,98,50,choppy window (7 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785299930,KXBTC15M-26JUL290045-45,yes,98,50,choppy window (7 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785299940,KXBTC15M-26JUL290045-45,yes,98,50,choppy window (7 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785299950,KXBTC15M-26JUL290045-45,yes,96,25,choppy window (7 crossings of 50c)
+1785299960,KXBTC15M-26JUL290045-45,yes,96,25,choppy window (7 crossings of 50c)
+1785299970,KXBTC15M-26JUL290045-45,yes,95,25,choppy window (7 crossings of 50c)
+1785299980,KXBTC15M-26JUL290045-45,yes,95,25,weak cushion (dist/vol ratio 1.86); choppy window (7 crossings of 50c)
+1785299990,KXBTC15M-26JUL290045-45,yes,97,25,choppy window (7 crossings of 50c)
+1785300000,KXBTC15M-26JUL290045-45,yes,98,50,choppy window (7 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785300010,KXBTC15M-26JUL290045-45,yes,97,25,choppy window (7 crossings of 50c)
+1785300021,KXBTC15M-26JUL290045-45,yes,98,50,choppy window (7 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785300031,KXBTC15M-26JUL290045-45,yes,98,50,choppy window (7 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785300041,KXBTC15M-26JUL290045-45,yes,97,25,choppy window (7 crossings of 50c)
+1785300051,KXBTC15M-26JUL290045-45,yes,98,50,choppy window (7 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785300948,KXBTC15M-26JUL290100-00,yes,95,55,weak cushion (dist/vol ratio 1.45); only 10s of confirmation; choppy window (5 crossings of 50c)
+1785300968,KXBTC15M-26JUL290100-00,yes,95,55,weak cushion (dist/vol ratio 1.47); only 30s of confirmation; choppy window (5 crossings of 50c)
+1785300978,KXBTC15M-26JUL290100-00,yes,98,80,weak cushion (dist/vol ratio 1.74); only 40s of confirmation; choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785301059,KXBTC15M-26JUL290100-00,yes,98,50,weak cushion (dist/vol ratio 1.32); choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785301886,KXBTC15M-26JUL290115-15,yes,97,55,weak cushion (dist/vol ratio 1.74); only 31s of confirmation; choppy window (3 crossings of 50c)
+1785301896,KXBTC15M-26JUL290115-15,yes,98,80,only 41s of confirmation; choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785301906,KXBTC15M-26JUL290115-15,yes,98,80,only 51s of confirmation; choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785301916,KXBTC15M-26JUL290115-15,yes,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785301926,KXBTC15M-26JUL290115-15,yes,97,25,weak cushion (dist/vol ratio 1.78); choppy window (3 crossings of 50c)
+1785301936,KXBTC15M-26JUL290115-15,yes,98,50,weak cushion (dist/vol ratio 1.80); choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785301946,KXBTC15M-26JUL290115-15,yes,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785301976,KXBTC15M-26JUL290115-15,yes,98,50,weak cushion (dist/vol ratio 1.55); choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
