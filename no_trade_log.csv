@@ -799,3 +799,19 @@ ts,ticker,side,price,risk_score,reasons
 1785304649,KXBTC15M-26JUL290200-00,yes,98,50,choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1785305607,KXBTC15M-26JUL290215-15,yes,95,55,weak cushion (dist/vol ratio 1.10); only 0s of confirmation; choppy window (3 crossings of 50c)
 1785305617,KXBTC15M-26JUL290215-15,yes,98,80,weak cushion (dist/vol ratio 1.42); only 10s of confirmation; choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785306282,KXBTC15M-26JUL290230-30,yes,96,55,only 20s of confirmation; choppy window (3 crossings of 50c)
+1785306292,KXBTC15M-26JUL290230-30,yes,96,55,only 30s of confirmation; choppy window (3 crossings of 50c)
+1785306302,KXBTC15M-26JUL290230-30,yes,96,55,only 40s of confirmation; choppy window (3 crossings of 50c)
+1785306312,KXBTC15M-26JUL290230-30,yes,96,55,only 50s of confirmation; choppy window (3 crossings of 50c)
+1785306322,KXBTC15M-26JUL290230-30,yes,97,25,choppy window (3 crossings of 50c)
+1785306333,KXBTC15M-26JUL290230-30,yes,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785307270,KXBTC15M-26JUL290245-45,yes,96,30,weak cushion (dist/vol ratio 1.47); only 30s of confirmation
+1785307280,KXBTC15M-26JUL290245-45,yes,96,30,weak cushion (dist/vol ratio 1.51); only 40s of confirmation
+1785307290,KXBTC15M-26JUL290245-45,yes,97,30,weak cushion (dist/vol ratio 1.43); only 50s of confirmation
+1785307300,KXBTC15M-26JUL290245-45,yes,97,0,weak cushion (dist/vol ratio 1.43)
+1785307310,KXBTC15M-26JUL290245-45,yes,96,0,weak cushion (dist/vol ratio 1.43)
+1785307320,KXBTC15M-26JUL290245-45,yes,96,0,weak cushion (dist/vol ratio 1.28)
+1785307341,KXBTC15M-26JUL290245-45,yes,95,0,weak cushion (dist/vol ratio 1.17)
+1785307351,KXBTC15M-26JUL290245-45,yes,96,0,weak cushion (dist/vol ratio 1.21)
+1785307361,KXBTC15M-26JUL290245-45,yes,98,25,weak cushion (dist/vol ratio 1.49); entry 98c: sample shows 98c+ is overpriced
+1785309145,KXBTC15M-26JUL290315-15,yes,97,55,only 20s of confirmation; choppy window (4 crossings of 50c)
