@@ -859,3 +859,16 @@ ts,ticker,side,price,risk_score,reasons
 1785319865,KXBTC15M-26JUL290615-15,no,98,80,only 30s of confirmation; choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1785319875,KXBTC15M-26JUL290615-15,no,98,80,only 41s of confirmation; choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1785319885,KXBTC15M-26JUL290615-15,no,98,80,only 51s of confirmation; choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785320862,KXBTC15M-26JUL290630-30,no,96,55,weak cushion (dist/vol ratio 1.87); only 10s of confirmation; choppy window (3 crossings of 50c)
+1785320872,KXBTC15M-26JUL290630-30,no,96,55,weak cushion (dist/vol ratio 1.82); only 20s of confirmation; choppy window (3 crossings of 50c)
+1785321588,KXBTC15M-26JUL290645-45,no,96,55,only 31s of confirmation; choppy window (5 crossings of 50c)
+1785321598,KXBTC15M-26JUL290645-45,no,97,55,only 41s of confirmation; choppy window (5 crossings of 50c)
+1785321608,KXBTC15M-26JUL290645-45,no,95,55,only 51s of confirmation; choppy window (5 crossings of 50c)
+1785321618,KXBTC15M-26JUL290645-45,no,96,25,choppy window (5 crossings of 50c)
+1785321628,KXBTC15M-26JUL290645-45,no,97,25,choppy window (5 crossings of 50c)
+1785321658,KXBTC15M-26JUL290645-45,no,95,25,weak cushion (dist/vol ratio 1.83); choppy window (5 crossings of 50c)
+1785321688,KXBTC15M-26JUL290645-45,no,95,25,weak cushion (dist/vol ratio 1.66); choppy window (5 crossings of 50c)
+1785321759,KXBTC15M-26JUL290645-45,yes,96,55,weak cushion (dist/vol ratio 1.59); only 0s of confirmation; choppy window (6 crossings of 50c)
+1785321779,KXBTC15M-26JUL290645-45,yes,98,80,weak cushion (dist/vol ratio 1.81); only 20s of confirmation; choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785323561,KXBTC15M-26JUL290715-15,yes,96,55,weak cushion (dist/vol ratio 1.25); only 20s of confirmation; choppy window (6 crossings of 50c)
+1785323571,KXBTC15M-26JUL290715-15,yes,98,80,weak cushion (dist/vol ratio 1.54); only 30s of confirmation; choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
