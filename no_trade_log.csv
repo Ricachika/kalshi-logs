@@ -1280,3 +1280,19 @@ ts,ticker,side,price,risk_score,reasons
 1785391050,KXBTC15M-26JUL300200-00,no,97,25,choppy window (5 crossings of 50c)
 1785391060,KXBTC15M-26JUL300200-00,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1785391070,KXBTC15M-26JUL300200-00,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785392803,KXBTC15M-26JUL300230-30,yes,95,25,weak cushion (dist/vol ratio 1.57); choppy window (5 crossings of 50c)
+1785392813,KXBTC15M-26JUL300230-30,yes,97,25,weak cushion (dist/vol ratio 1.61); choppy window (5 crossings of 50c)
+1785392854,KXBTC15M-26JUL300230-30,yes,95,55,weak cushion (dist/vol ratio 1.29); only 0s of confirmation; choppy window (5 crossings of 50c)
+1785392864,KXBTC15M-26JUL300230-30,yes,97,55,only 10s of confirmation; choppy window (5 crossings of 50c)
+1785392874,KXBTC15M-26JUL300230-30,yes,98,80,weak cushion (dist/vol ratio 1.85); only 20s of confirmation; choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785393650,KXBTC15M-26JUL300245-45,no,95,55,only 41s of confirmation; choppy window (3 crossings of 50c)
+1785393660,KXBTC15M-26JUL300245-45,no,97,55,only 51s of confirmation; choppy window (3 crossings of 50c)
+1785393670,KXBTC15M-26JUL300245-45,no,97,25,choppy window (3 crossings of 50c)
+1785393680,KXBTC15M-26JUL300245-45,no,95,25,choppy window (3 crossings of 50c)
+1785393690,KXBTC15M-26JUL300245-45,no,95,25,choppy window (3 crossings of 50c)
+1785393700,KXBTC15M-26JUL300245-45,no,96,25,choppy window (3 crossings of 50c)
+1785393740,KXBTC15M-26JUL300245-45,no,96,25,choppy window (3 crossings of 50c)
+1785393750,KXBTC15M-26JUL300245-45,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785393761,KXBTC15M-26JUL300245-45,no,97,25,choppy window (3 crossings of 50c)
+1785393771,KXBTC15M-26JUL300245-45,no,96,25,choppy window (3 crossings of 50c)
+1785393781,KXBTC15M-26JUL300245-45,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
