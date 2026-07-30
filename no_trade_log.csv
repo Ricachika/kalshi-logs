@@ -1185,3 +1185,19 @@ ts,ticker,side,price,risk_score,reasons
 1785377541,KXBTC15M-26JUL292215-15,yes,98,80,weak cushion (dist/vol ratio 1.83); only 10s of confirmation; choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1785377561,KXBTC15M-26JUL292215-15,yes,98,80,weak cushion (dist/vol ratio 1.49); only 30s of confirmation; choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1785377571,KXBTC15M-26JUL292215-15,yes,97,55,weak cushion (dist/vol ratio 1.31); only 40s of confirmation; choppy window (4 crossings of 50c)
+1785378932,KXBTC15M-26JUL292245-45,no,95,30,weak cushion (dist/vol ratio 1.84); only 51s of confirmation
+1785378942,KXBTC15M-26JUL292245-45,no,95,0,weak cushion (dist/vol ratio 1.87)
+1785378952,KXBTC15M-26JUL292245-45,no,95,0,weak cushion (dist/vol ratio 1.83)
+1785378962,KXBTC15M-26JUL292245-45,no,95,0,weak cushion (dist/vol ratio 1.88)
+1785378972,KXBTC15M-26JUL292245-45,no,96,0,weak cushion (dist/vol ratio 1.87)
+1785380099,KXBTC15M-26JUL292300-00,no,95,30,only 10s of confirmation
+1785380109,KXBTC15M-26JUL292300-00,no,95,30,only 20s of confirmation
+1785380119,KXBTC15M-26JUL292300-00,no,96,30,only 30s of confirmation
+1785380130,KXBTC15M-26JUL292300-00,no,96,30,only 40s of confirmation
+1785380140,KXBTC15M-26JUL292300-00,no,98,55,only 51s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1785380150,KXBTC15M-26JUL292300-00,no,97,0,weak cushion (dist/vol ratio 1.89)
+1785380160,KXBTC15M-26JUL292300-00,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1785381151,KXBTC15M-26JUL292315-15,no,95,55,weak cushion (dist/vol ratio 1.65); only 10s of confirmation; choppy window (5 crossings of 50c)
+1785381161,KXBTC15M-26JUL292315-15,no,96,55,weak cushion (dist/vol ratio 1.71); only 21s of confirmation; choppy window (5 crossings of 50c)
+1785381171,KXBTC15M-26JUL292315-15,no,97,55,weak cushion (dist/vol ratio 1.78); only 31s of confirmation; choppy window (5 crossings of 50c)
+1785381181,KXBTC15M-26JUL292315-15,no,98,80,only 41s of confirmation; choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
