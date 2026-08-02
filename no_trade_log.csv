@@ -2645,3 +2645,18 @@ ts,ticker,side,price,risk_score,reasons
 1785703377,KXBTC15M-26AUG021645-45,yes,98,25,weak cushion (dist/vol ratio 0.86); entry 98c: sample shows 98c+ is overpriced
 1785703397,KXBTC15M-26AUG021645-45,yes,98,25,weak cushion (dist/vol ratio 1.20); entry 98c: sample shows 98c+ is overpriced
 1785704857,KXBTC15M-26AUG021715-15,yes,95,30,only 51s of confirmation
+1785706125,KXBTC15M-26AUG021730-30,yes,97,55,weak cushion (dist/vol ratio 0.32); only 10s of confirmation; choppy window (10 crossings of 50c)
+1785706135,KXBTC15M-26AUG021730-30,yes,98,80,weak cushion (dist/vol ratio 0.34); only 20s of confirmation; choppy window (10 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785707697,KXBTC15M-26AUG021800-00,no,96,25,weak cushion (dist/vol ratio 1.76); choppy window (6 crossings of 50c)
+1785707707,KXBTC15M-26AUG021800-00,no,96,25,weak cushion (dist/vol ratio 1.86); choppy window (6 crossings of 50c)
+1785707727,KXBTC15M-26AUG021800-00,no,96,25,choppy window (6 crossings of 50c)
+1785707737,KXBTC15M-26AUG021800-00,no,96,25,choppy window (6 crossings of 50c)
+1785707747,KXBTC15M-26AUG021800-00,no,98,50,choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785707757,KXBTC15M-26AUG021800-00,no,98,50,choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785707768,KXBTC15M-26AUG021800-00,no,97,25,choppy window (6 crossings of 50c)
+1785707778,KXBTC15M-26AUG021800-00,no,98,50,choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785707788,KXBTC15M-26AUG021800-00,no,98,50,choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785708372,KXBTC15M-26AUG021815-15,yes,95,30,weak cushion (dist/vol ratio 1.66); only 30s of confirmation
+1785708523,KXBTC15M-26AUG021815-15,yes,95,30,weak cushion (dist/vol ratio 1.47); only 30s of confirmation
+1785708584,KXBTC15M-26AUG021815-15,yes,96,0,weak cushion (dist/vol ratio 1.56)
+1785708594,KXBTC15M-26AUG021815-15,yes,97,0,weak cushion (dist/vol ratio 1.80)
