@@ -3251,3 +3251,17 @@ ts,ticker,side,price,risk_score,reasons
 1785813067,KXBTC15M-26AUG032315-15,no,98,80,only 41s of confirmation; choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1785813077,KXBTC15M-26AUG032315-15,no,98,80,only 51s of confirmation; choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1785813087,KXBTC15M-26AUG032315-15,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785813994,KXBTC15M-26AUG032330-30,yes,95,55,weak cushion (dist/vol ratio 0.88); only 0s of confirmation; choppy window (9 crossings of 50c)
+1785814004,KXBTC15M-26AUG032330-30,yes,98,80,weak cushion (dist/vol ratio 1.48); only 10s of confirmation; choppy window (9 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785814014,KXBTC15M-26AUG032330-30,yes,97,55,weak cushion (dist/vol ratio 1.54); only 20s of confirmation; choppy window (9 crossings of 50c)
+1785814760,KXBTC15M-26AUG032345-45,yes,96,0,weak cushion (dist/vol ratio 1.29)
+1785814770,KXBTC15M-26AUG032345-45,yes,96,0,weak cushion (dist/vol ratio 1.22)
+1785814780,KXBTC15M-26AUG032345-45,yes,96,0,weak cushion (dist/vol ratio 1.24)
+1785814790,KXBTC15M-26AUG032345-45,yes,97,0,weak cushion (dist/vol ratio 1.35)
+1785814800,KXBTC15M-26AUG032345-45,yes,98,25,weak cushion (dist/vol ratio 1.36); entry 98c: sample shows 98c+ is overpriced
+1785814810,KXBTC15M-26AUG032345-45,yes,98,25,weak cushion (dist/vol ratio 1.33); entry 98c: sample shows 98c+ is overpriced
+1785814820,KXBTC15M-26AUG032345-45,yes,98,25,weak cushion (dist/vol ratio 1.36); entry 98c: sample shows 98c+ is overpriced
+1785814861,KXBTC15M-26AUG032345-45,yes,98,25,weak cushion (dist/vol ratio 1.52); entry 98c: sample shows 98c+ is overpriced
+1785814931,KXBTC15M-26AUG032345-45,yes,98,25,weak cushion (dist/vol ratio 1.33); entry 98c: sample shows 98c+ is overpriced
+1785814941,KXBTC15M-26AUG032345-45,yes,98,25,weak cushion (dist/vol ratio 1.37); entry 98c: sample shows 98c+ is overpriced
+1785815939,KXBTC15M-26AUG040000-00,no,95,55,only 40s of confirmation; choppy window (13 crossings of 50c)
