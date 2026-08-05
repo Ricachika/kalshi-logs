@@ -3960,3 +3960,19 @@ ts,ticker,side,price,risk_score,reasons
 1785949958,KXBTC15M-26AUG051315-15,no,95,55,only 20s of confirmation; choppy window (9 crossings of 50c)
 1785949968,KXBTC15M-26AUG051315-15,no,97,55,only 30s of confirmation; choppy window (9 crossings of 50c)
 1785949979,KXBTC15M-26AUG051315-15,no,97,55,only 40s of confirmation; choppy window (9 crossings of 50c)
+1785951511,KXBTC15M-26AUG051345-45,yes,97,55,only 41s of confirmation; choppy window (11 crossings of 50c)
+1785951521,KXBTC15M-26AUG051345-45,yes,97,55,only 51s of confirmation; choppy window (11 crossings of 50c)
+1785951531,KXBTC15M-26AUG051345-45,yes,98,50,choppy window (11 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785951541,KXBTC15M-26AUG051345-45,yes,98,50,choppy window (11 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785951551,KXBTC15M-26AUG051345-45,yes,98,50,choppy window (11 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785951581,KXBTC15M-26AUG051345-45,yes,98,50,choppy window (11 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1785952539,KXBTC15M-26AUG051400-00,yes,95,30,weak cushion (dist/vol ratio 1.18); only 40s of confirmation
+1785952549,KXBTC15M-26AUG051400-00,yes,97,30,weak cushion (dist/vol ratio 1.20); only 50s of confirmation
+1785952559,KXBTC15M-26AUG051400-00,yes,98,25,weak cushion (dist/vol ratio 1.41); entry 98c: sample shows 98c+ is overpriced
+1785952569,KXBTC15M-26AUG051400-00,yes,98,25,weak cushion (dist/vol ratio 1.48); entry 98c: sample shows 98c+ is overpriced
+1785952579,KXBTC15M-26AUG051400-00,yes,97,0,weak cushion (dist/vol ratio 1.36)
+1785952589,KXBTC15M-26AUG051400-00,yes,97,0,weak cushion (dist/vol ratio 1.52)
+1785952600,KXBTC15M-26AUG051400-00,yes,98,25,weak cushion (dist/vol ratio 1.47); entry 98c: sample shows 98c+ is overpriced
+1785953255,KXBTC15M-26AUG051415-15,no,96,30,only 10s of confirmation
+1785953265,KXBTC15M-26AUG051415-15,no,96,30,only 20s of confirmation
+1785953295,KXBTC15M-26AUG051415-15,no,95,30,only 50s of confirmation
