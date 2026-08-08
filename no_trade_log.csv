@@ -5266,3 +5266,21 @@ ts,ticker,side,price,risk_score,reasons
 1786183986,KXBTC15M-26AUG080615-15,yes,98,50,choppy window (10 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1786183996,KXBTC15M-26AUG080615-15,yes,98,50,choppy window (10 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1786184006,KXBTC15M-26AUG080615-15,yes,98,50,choppy window (10 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786184711,KXBTC15M-26AUG080630-30,yes,96,55,only 0s of confirmation; choppy window (4 crossings of 50c)
+1786184761,KXBTC15M-26AUG080630-30,yes,95,55,only 50s of confirmation; choppy window (4 crossings of 50c)
+1786184832,KXBTC15M-26AUG080630-30,yes,95,55,only 41s of confirmation; choppy window (4 crossings of 50c)
+1786184842,KXBTC15M-26AUG080630-30,yes,96,55,only 51s of confirmation; choppy window (4 crossings of 50c)
+1786184852,KXBTC15M-26AUG080630-30,yes,96,25,choppy window (4 crossings of 50c)
+1786184862,KXBTC15M-26AUG080630-30,yes,97,25,choppy window (4 crossings of 50c)
+1786184872,KXBTC15M-26AUG080630-30,yes,97,25,choppy window (4 crossings of 50c)
+1786184882,KXBTC15M-26AUG080630-30,yes,98,50,choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786184892,KXBTC15M-26AUG080630-30,yes,98,50,choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786184902,KXBTC15M-26AUG080630-30,yes,98,50,choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786185718,KXBTC15M-26AUG080645-45,no,95,55,only 30s of confirmation; choppy window (5 crossings of 50c)
+1786185728,KXBTC15M-26AUG080645-45,no,97,55,only 40s of confirmation; choppy window (5 crossings of 50c)
+1786185738,KXBTC15M-26AUG080645-45,no,97,55,only 50s of confirmation; choppy window (5 crossings of 50c)
+1786185749,KXBTC15M-26AUG080645-45,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786185759,KXBTC15M-26AUG080645-45,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786185769,KXBTC15M-26AUG080645-45,no,97,25,choppy window (5 crossings of 50c)
+1786185779,KXBTC15M-26AUG080645-45,no,97,25,choppy window (5 crossings of 50c)
+1786185789,KXBTC15M-26AUG080645-45,no,97,25,choppy window (5 crossings of 50c)
