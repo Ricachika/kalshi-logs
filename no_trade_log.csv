@@ -5735,3 +5735,21 @@ ts,ticker,side,price,risk_score,reasons
 1786276589,KXBTC15M-26AUG090800-00,no,98,25,entry 98c: sample shows 98c+ is overpriced
 1786276599,KXBTC15M-26AUG090800-00,no,98,25,entry 98c: sample shows 98c+ is overpriced
 1786276609,KXBTC15M-26AUG090800-00,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1786279368,KXBTC15M-26AUG090845-45,no,97,55,only 20s of confirmation; choppy window (3 crossings of 50c)
+1786279378,KXBTC15M-26AUG090845-45,no,97,55,only 30s of confirmation; choppy window (3 crossings of 50c)
+1786279388,KXBTC15M-26AUG090845-45,no,97,55,only 40s of confirmation; choppy window (3 crossings of 50c)
+1786279398,KXBTC15M-26AUG090845-45,no,98,80,only 50s of confirmation; choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786279408,KXBTC15M-26AUG090845-45,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786279428,KXBTC15M-26AUG090845-45,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786280133,KXBTC15M-26AUG090900-00,yes,96,55,only 30s of confirmation; choppy window (8 crossings of 50c)
+1786280144,KXBTC15M-26AUG090900-00,yes,97,55,only 40s of confirmation; choppy window (8 crossings of 50c)
+1786280154,KXBTC15M-26AUG090900-00,yes,97,55,only 51s of confirmation; choppy window (8 crossings of 50c)
+1786280164,KXBTC15M-26AUG090900-00,yes,97,25,choppy window (8 crossings of 50c)
+1786280174,KXBTC15M-26AUG090900-00,yes,98,50,choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786280184,KXBTC15M-26AUG090900-00,yes,98,50,choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786280194,KXBTC15M-26AUG090900-00,yes,98,50,choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786280204,KXBTC15M-26AUG090900-00,yes,98,50,choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786280214,KXBTC15M-26AUG090900-00,yes,97,25,choppy window (8 crossings of 50c)
+1786280224,KXBTC15M-26AUG090900-00,yes,98,50,choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786280234,KXBTC15M-26AUG090900-00,yes,98,50,choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786280244,KXBTC15M-26AUG090900-00,yes,98,50,choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
