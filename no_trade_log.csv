@@ -5804,3 +5804,18 @@ ts,ticker,side,price,risk_score,reasons
 1786291869,KXBTC15M-26AUG091215-15,yes,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1786291930,KXBTC15M-26AUG091215-15,yes,95,25,choppy window (3 crossings of 50c)
 1786292030,KXBTC15M-26AUG091215-15,yes,97,55,weak cushion (dist/vol ratio 0.02); only 0s of confirmation; choppy window (5 crossings of 50c)
+1786292635,KXBTC15M-26AUG091230-30,no,95,55,weak cushion (dist/vol ratio 1.08); only 20s of confirmation; choppy window (3 crossings of 50c)
+1786292645,KXBTC15M-26AUG091230-30,no,95,55,weak cushion (dist/vol ratio 1.42); only 30s of confirmation; choppy window (3 crossings of 50c)
+1786292665,KXBTC15M-26AUG091230-30,no,96,55,weak cushion (dist/vol ratio 1.72); only 50s of confirmation; choppy window (3 crossings of 50c)
+1786292675,KXBTC15M-26AUG091230-30,no,96,25,weak cushion (dist/vol ratio 1.75); choppy window (3 crossings of 50c)
+1786292686,KXBTC15M-26AUG091230-30,no,97,25,choppy window (3 crossings of 50c)
+1786292696,KXBTC15M-26AUG091230-30,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786292706,KXBTC15M-26AUG091230-30,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786292756,KXBTC15M-26AUG091230-30,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786292817,KXBTC15M-26AUG091230-30,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786293391,KXBTC15M-26AUG091245-45,yes,95,30,only 50s of confirmation
+1786294649,KXBTC15M-26AUG091300-00,no,95,30,weak cushion (dist/vol ratio 1.18); only 40s of confirmation
+1786294659,KXBTC15M-26AUG091300-00,no,98,55,weak cushion (dist/vol ratio 1.22); only 50s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1786294669,KXBTC15M-26AUG091300-00,no,98,25,weak cushion (dist/vol ratio 1.27); entry 98c: sample shows 98c+ is overpriced
+1786294689,KXBTC15M-26AUG091300-00,no,98,25,weak cushion (dist/vol ratio 1.42); entry 98c: sample shows 98c+ is overpriced
+1786295445,KXBTC15M-26AUG091315-15,no,95,30,only 40s of confirmation
