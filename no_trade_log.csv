@@ -6512,3 +6512,7 @@ ts,ticker,side,price,risk_score,reasons
 1786403401,KXBTC15M-26AUG101915-15,no,95,30,only 51s of confirmation
 1786403491,KXBTC15M-26AUG101915-15,no,97,30,only 40s of confirmation
 1786403502,KXBTC15M-26AUG101915-15,no,97,30,only 50s of confirmation
+1786404509,KXBTC15M-26AUG101930-30,no,95,55,only 20s of confirmation; choppy window (9 crossings of 50c)
+1786404519,KXBTC15M-26AUG101930-30,no,98,80,only 30s of confirmation; choppy window (9 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786404529,KXBTC15M-26AUG101930-30,no,98,80,only 40s of confirmation; choppy window (9 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1786406846,KXBTC15M-26AUG102015-15,no,95,30,only 30s of confirmation
