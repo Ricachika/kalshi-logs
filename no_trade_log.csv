@@ -6558,3 +6558,21 @@ ts,ticker,side,price,risk_score,reasons
 1787738309,KXBTC15M-26AUG260600-00,yes,97,0,weak cushion (dist/vol ratio 1.58)
 1787739055,KXBTC15M-26AUG260615-15,no,96,30,weak cushion (dist/vol ratio 1.85); only 41s of confirmation
 1787739065,KXBTC15M-26AUG260615-15,no,95,30,only 51s of confirmation
+1787739861,KXBTC15M-26AUG260630-30,yes,95,55,only 31s of confirmation; choppy window (3 crossings of 50c)
+1787739871,KXBTC15M-26AUG260630-30,yes,95,55,only 41s of confirmation; choppy window (3 crossings of 50c)
+1787739881,KXBTC15M-26AUG260630-30,yes,96,55,only 51s of confirmation; choppy window (3 crossings of 50c)
+1787739891,KXBTC15M-26AUG260630-30,yes,95,25,choppy window (3 crossings of 50c)
+1787739901,KXBTC15M-26AUG260630-30,yes,96,25,choppy window (3 crossings of 50c)
+1787739911,KXBTC15M-26AUG260630-30,yes,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1787739921,KXBTC15M-26AUG260630-30,yes,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1787739931,KXBTC15M-26AUG260630-30,yes,97,25,choppy window (3 crossings of 50c)
+1787739941,KXBTC15M-26AUG260630-30,yes,97,25,choppy window (3 crossings of 50c)
+1787739951,KXBTC15M-26AUG260630-30,yes,97,25,choppy window (3 crossings of 50c)
+1787739961,KXBTC15M-26AUG260630-30,yes,97,25,choppy window (3 crossings of 50c)
+1787739971,KXBTC15M-26AUG260630-30,yes,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1787739982,KXBTC15M-26AUG260630-30,yes,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1787740778,KXBTC15M-26AUG260645-45,yes,95,55,only 0s of confirmation; choppy window (9 crossings of 50c)
+1787741000,KXBTC15M-26AUG260645-45,yes,98,50,choppy window (9 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1787741010,KXBTC15M-26AUG260645-45,yes,98,50,choppy window (9 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1787742804,KXBTC15M-26AUG260715-15,no,96,30,weak cushion (dist/vol ratio 1.64); only 0s of confirmation
+1787742824,KXBTC15M-26AUG260715-15,no,97,30,only 20s of confirmation
