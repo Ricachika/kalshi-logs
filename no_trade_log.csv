@@ -7383,3 +7383,5 @@ ts,ticker,side,price,risk_score,reasons
 1787919150,KXBTC15M-26AUG280815-15,no,97,55,only 51s of confirmation; choppy window (9 crossings of 50c)
 1787919160,KXBTC15M-26AUG280815-15,no,98,50,choppy window (9 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1787919170,KXBTC15M-26AUG280815-15,no,98,50,choppy window (9 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1787922793,KXBTC15M-26AUG280915-15,no,95,55,weak cushion (dist/vol ratio 1.31); only 41s of confirmation; choppy window (4 crossings of 50c)
+1787922803,KXBTC15M-26AUG280915-15,no,97,55,weak cushion (dist/vol ratio 1.70); only 51s of confirmation; choppy window (4 crossings of 50c)
