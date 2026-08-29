@@ -7674,3 +7674,17 @@ ts,ticker,side,price,risk_score,reasons
 1787993881,KXBTC15M-26AUG290500-00,yes,98,50,weak cushion (dist/vol ratio 1.46); choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1787993891,KXBTC15M-26AUG290500-00,yes,98,50,weak cushion (dist/vol ratio 1.53); choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1787994838,KXBTC15M-26AUG290515-15,yes,95,55,weak cushion (dist/vol ratio 0.55); only 0s of confirmation; choppy window (10 crossings of 50c)
+1787995674,KXBTC15M-26AUG290530-30,no,96,55,weak cushion (dist/vol ratio 1.45); only 20s of confirmation; choppy window (6 crossings of 50c)
+1787995684,KXBTC15M-26AUG290530-30,no,96,55,weak cushion (dist/vol ratio 1.54); only 30s of confirmation; choppy window (6 crossings of 50c)
+1787995694,KXBTC15M-26AUG290530-30,no,96,55,weak cushion (dist/vol ratio 1.61); only 40s of confirmation; choppy window (6 crossings of 50c)
+1787995704,KXBTC15M-26AUG290530-30,no,97,55,weak cushion (dist/vol ratio 1.70); only 50s of confirmation; choppy window (6 crossings of 50c)
+1787995715,KXBTC15M-26AUG290530-30,no,98,50,weak cushion (dist/vol ratio 1.79); choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1787995725,KXBTC15M-26AUG290530-30,no,98,50,choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1787995735,KXBTC15M-26AUG290530-30,no,98,50,weak cushion (dist/vol ratio 1.67); choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1787997507,KXBTC15M-26AUG290600-00,no,96,30,only 10s of confirmation
+1787997517,KXBTC15M-26AUG290600-00,no,98,55,only 20s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1787997527,KXBTC15M-26AUG290600-00,no,98,55,only 30s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1787997537,KXBTC15M-26AUG290600-00,no,98,55,only 40s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1787997930,KXBTC15M-26AUG290615-15,no,95,30,only 30s of confirmation
+1787997940,KXBTC15M-26AUG290615-15,no,95,30,only 40s of confirmation
+1787997950,KXBTC15M-26AUG290615-15,no,96,30,only 50s of confirmation
