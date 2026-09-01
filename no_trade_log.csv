@@ -8996,3 +8996,18 @@ ts,ticker,side,price,risk_score,reasons
 1788250242,KXBTC15M-26SEP010415-15,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1788250252,KXBTC15M-26SEP010415-15,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1788250263,KXBTC15M-26SEP010415-15,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1788251099,KXBTC15M-26SEP010430-30,no,95,55,only 51s of confirmation; choppy window (3 crossings of 50c)
+1788251119,KXBTC15M-26SEP010430-30,no,95,25,choppy window (3 crossings of 50c)
+1788251129,KXBTC15M-26SEP010430-30,no,95,25,choppy window (3 crossings of 50c)
+1788251139,KXBTC15M-26SEP010430-30,no,96,25,choppy window (3 crossings of 50c)
+1788251149,KXBTC15M-26SEP010430-30,no,97,25,choppy window (3 crossings of 50c)
+1788251159,KXBTC15M-26SEP010430-30,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1788251169,KXBTC15M-26SEP010430-30,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1788251179,KXBTC15M-26SEP010430-30,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1788251189,KXBTC15M-26SEP010430-30,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1788253094,KXBTC15M-26SEP010500-00,no,96,30,weak cushion (dist/vol ratio 1.56); only 30s of confirmation
+1788253104,KXBTC15M-26SEP010500-00,no,97,30,weak cushion (dist/vol ratio 1.63); only 40s of confirmation
+1788253114,KXBTC15M-26SEP010500-00,no,98,55,weak cushion (dist/vol ratio 1.73); only 50s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1788254011,KXBTC15M-26SEP010515-15,no,97,55,weak cushion (dist/vol ratio 1.23); only 0s of confirmation; choppy window (7 crossings of 50c)
+1788254021,KXBTC15M-26SEP010515-15,no,97,55,weak cushion (dist/vol ratio 1.31); only 10s of confirmation; choppy window (7 crossings of 50c)
+1788254031,KXBTC15M-26SEP010515-15,no,98,80,weak cushion (dist/vol ratio 1.40); only 20s of confirmation; choppy window (7 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
