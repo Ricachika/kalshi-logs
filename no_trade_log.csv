@@ -9462,3 +9462,4 @@ ts,ticker,side,price,risk_score,reasons
 1788343818,KXBTC15M-26SEP020615-15,no,97,30,only 30s of confirmation
 1788343829,KXBTC15M-26SEP020615-15,no,97,30,only 40s of confirmation
 1788343839,KXBTC15M-26SEP020615-15,no,97,30,only 51s of confirmation
+1788345723,KXBTC15M-26SEP020645-45,no,96,55,only 10s of confirmation; choppy window (9 crossings of 50c)
