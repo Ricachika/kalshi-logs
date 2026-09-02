@@ -9324,3 +9324,21 @@ ts,ticker,side,price,risk_score,reasons
 1788315146,KXBTC15M-26SEP012215-15,yes,97,55,weak cushion (dist/vol ratio 1.62); only 20s of confirmation; choppy window (8 crossings of 50c)
 1788315156,KXBTC15M-26SEP012215-15,yes,98,80,weak cushion (dist/vol ratio 1.67); only 30s of confirmation; choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1788315166,KXBTC15M-26SEP012215-15,yes,98,80,only 40s of confirmation; choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1788315862,KXBTC15M-26SEP012230-30,yes,95,30,weak cushion (dist/vol ratio 1.64); only 20s of confirmation
+1788315892,KXBTC15M-26SEP012230-30,yes,95,30,weak cushion (dist/vol ratio 1.72); only 50s of confirmation
+1788316839,KXBTC15M-26SEP012245-45,no,95,30,only 20s of confirmation
+1788316849,KXBTC15M-26SEP012245-45,no,95,30,weak cushion (dist/vol ratio 1.89); only 30s of confirmation
+1788316860,KXBTC15M-26SEP012245-45,no,97,30,only 40s of confirmation
+1788316870,KXBTC15M-26SEP012245-45,no,98,55,only 51s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1788316880,KXBTC15M-26SEP012245-45,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1788316890,KXBTC15M-26SEP012245-45,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1788316900,KXBTC15M-26SEP012245-45,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1788316920,KXBTC15M-26SEP012245-45,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1788316960,KXBTC15M-26SEP012245-45,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1788317787,KXBTC15M-26SEP012300-00,yes,96,30,weak cushion (dist/vol ratio 1.49); only 40s of confirmation
+1788317797,KXBTC15M-26SEP012300-00,yes,95,30,weak cushion (dist/vol ratio 1.62); only 50s of confirmation
+1788317827,KXBTC15M-26SEP012300-00,yes,96,0,weak cushion (dist/vol ratio 1.73)
+1788317837,KXBTC15M-26SEP012300-00,yes,98,25,entry 98c: sample shows 98c+ is overpriced
+1788317848,KXBTC15M-26SEP012300-00,yes,98,25,entry 98c: sample shows 98c+ is overpriced
+1788318513,KXBTC15M-26SEP012315-15,yes,95,30,only 30s of confirmation
+1788318533,KXBTC15M-26SEP012315-15,yes,95,30,only 50s of confirmation
