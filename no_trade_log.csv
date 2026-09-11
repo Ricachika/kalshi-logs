@@ -9977,3 +9977,16 @@ ts,ticker,side,price,risk_score,reasons
 1789132150,KXBTC15M-26SEP110915-15,no,97,30,only 41s of confirmation
 1789132160,KXBTC15M-26SEP110915-15,no,98,55,only 51s of confirmation; entry 98c: sample shows 98c+ is overpriced
 1789132170,KXBTC15M-26SEP110915-15,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1789133268,KXBTC15M-26SEP110930-30,no,95,55,weak cushion (dist/vol ratio 1.78); only 0s of confirmation; choppy window (9 crossings of 50c)
+1789133278,KXBTC15M-26SEP110930-30,no,96,55,weak cushion (dist/vol ratio 1.85); only 10s of confirmation; choppy window (9 crossings of 50c)
+1789133288,KXBTC15M-26SEP110930-30,no,98,80,only 20s of confirmation; choppy window (9 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789133298,KXBTC15M-26SEP110930-30,no,98,80,only 30s of confirmation; choppy window (9 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789134135,KXBTC15M-26SEP110945-45,yes,96,55,only 41s of confirmation; choppy window (8 crossings of 50c)
+1789134145,KXBTC15M-26SEP110945-45,yes,98,80,only 51s of confirmation; choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789135898,KXBTC15M-26SEP111015-15,no,96,30,weak cushion (dist/vol ratio 1.62); only 11s of confirmation
+1789135908,KXBTC15M-26SEP111015-15,no,98,55,weak cushion (dist/vol ratio 1.75); only 21s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1789135918,KXBTC15M-26SEP111015-15,no,98,55,weak cushion (dist/vol ratio 1.74); only 31s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1789135938,KXBTC15M-26SEP111015-15,no,98,55,weak cushion (dist/vol ratio 1.74); only 51s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1789135948,KXBTC15M-26SEP111015-15,no,98,25,weak cushion (dist/vol ratio 1.73); entry 98c: sample shows 98c+ is overpriced
+1789135958,KXBTC15M-26SEP111015-15,no,98,25,weak cushion (dist/vol ratio 1.62); entry 98c: sample shows 98c+ is overpriced
+1789135978,KXBTC15M-26SEP111015-15,no,96,0,weak cushion (dist/vol ratio 1.23)
