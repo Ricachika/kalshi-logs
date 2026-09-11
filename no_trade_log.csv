@@ -10006,3 +10006,40 @@ ts,ticker,side,price,risk_score,reasons
 1789139448,KXBTC15M-26SEP111115-15,no,96,30,weak cushion (dist/vol ratio 1.68); only 40s of confirmation
 1789139458,KXBTC15M-26SEP111115-15,no,95,30,weak cushion (dist/vol ratio 1.58); only 50s of confirmation
 1789139468,KXBTC15M-26SEP111115-15,no,96,0,weak cushion (dist/vol ratio 1.82)
+1789140375,KXBTC15M-26SEP111130-30,yes,95,30,weak cushion (dist/vol ratio 1.43); only 10s of confirmation
+1789140385,KXBTC15M-26SEP111130-30,yes,95,30,weak cushion (dist/vol ratio 1.32); only 20s of confirmation
+1789140395,KXBTC15M-26SEP111130-30,yes,97,30,weak cushion (dist/vol ratio 1.48); only 30s of confirmation
+1789140405,KXBTC15M-26SEP111130-30,yes,98,55,weak cushion (dist/vol ratio 1.53); only 40s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1789140415,KXBTC15M-26SEP111130-30,yes,98,55,weak cushion (dist/vol ratio 1.55); only 50s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1789141897,KXBTC15M-26SEP111200-00,no,95,30,only 30s of confirmation
+1789141907,KXBTC15M-26SEP111200-00,no,97,30,only 40s of confirmation
+1789141918,KXBTC15M-26SEP111200-00,no,98,55,only 50s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1789141928,KXBTC15M-26SEP111200-00,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1789141938,KXBTC15M-26SEP111200-00,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1789141948,KXBTC15M-26SEP111200-00,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1789141958,KXBTC15M-26SEP111200-00,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1789142793,KXBTC15M-26SEP111215-15,yes,95,30,weak cushion (dist/vol ratio 1.28); only 40s of confirmation
+1789142804,KXBTC15M-26SEP111215-15,yes,95,30,weak cushion (dist/vol ratio 1.27); only 50s of confirmation
+1789142814,KXBTC15M-26SEP111215-15,yes,96,0,weak cushion (dist/vol ratio 1.40)
+1789142824,KXBTC15M-26SEP111215-15,yes,96,0,weak cushion (dist/vol ratio 1.34)
+1789142834,KXBTC15M-26SEP111215-15,yes,97,0,weak cushion (dist/vol ratio 1.42)
+1789142844,KXBTC15M-26SEP111215-15,yes,96,0,weak cushion (dist/vol ratio 1.30)
+1789142854,KXBTC15M-26SEP111215-15,yes,96,0,weak cushion (dist/vol ratio 1.41)
+1789142864,KXBTC15M-26SEP111215-15,yes,95,0,weak cushion (dist/vol ratio 1.19)
+1789142955,KXBTC15M-26SEP111215-15,yes,95,30,weak cushion (dist/vol ratio 1.14); only 20s of confirmation
+1789142965,KXBTC15M-26SEP111215-15,yes,95,30,weak cushion (dist/vol ratio 1.13); only 30s of confirmation
+1789142975,KXBTC15M-26SEP111215-15,yes,97,30,weak cushion (dist/vol ratio 1.29); only 40s of confirmation
+1789142985,KXBTC15M-26SEP111215-15,yes,98,55,weak cushion (dist/vol ratio 1.33); only 50s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1789142995,KXBTC15M-26SEP111215-15,yes,97,0,weak cushion (dist/vol ratio 1.22)
+1789143005,KXBTC15M-26SEP111215-15,yes,97,0,weak cushion (dist/vol ratio 1.26)
+1789143015,KXBTC15M-26SEP111215-15,yes,98,25,weak cushion (dist/vol ratio 1.40); entry 98c: sample shows 98c+ is overpriced
+1789143025,KXBTC15M-26SEP111215-15,yes,98,25,weak cushion (dist/vol ratio 1.25); entry 98c: sample shows 98c+ is overpriced
+1789143096,KXBTC15M-26SEP111215-15,yes,96,30,weak cushion (dist/vol ratio 0.98); only 30s of confirmation
+1789143106,KXBTC15M-26SEP111215-15,yes,96,30,weak cushion (dist/vol ratio 1.12); only 40s of confirmation
+1789143116,KXBTC15M-26SEP111215-15,yes,95,30,weak cushion (dist/vol ratio 0.97); only 50s of confirmation
+1789143126,KXBTC15M-26SEP111215-15,yes,96,0,weak cushion (dist/vol ratio 0.98)
+1789143146,KXBTC15M-26SEP111215-15,yes,95,0,weak cushion (dist/vol ratio 0.72)
+1789143156,KXBTC15M-26SEP111215-15,yes,96,0,weak cushion (dist/vol ratio 0.89)
+1789143166,KXBTC15M-26SEP111215-15,yes,98,25,weak cushion (dist/vol ratio 1.22); entry 98c: sample shows 98c+ is overpriced
+1789143177,KXBTC15M-26SEP111215-15,yes,98,25,weak cushion (dist/vol ratio 1.16); entry 98c: sample shows 98c+ is overpriced
+1789143197,KXBTC15M-26SEP111215-15,yes,98,25,weak cushion (dist/vol ratio 0.94); entry 98c: sample shows 98c+ is overpriced
