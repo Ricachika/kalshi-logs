@@ -9990,3 +9990,19 @@ ts,ticker,side,price,risk_score,reasons
 1789135948,KXBTC15M-26SEP111015-15,no,98,25,weak cushion (dist/vol ratio 1.73); entry 98c: sample shows 98c+ is overpriced
 1789135958,KXBTC15M-26SEP111015-15,no,98,25,weak cushion (dist/vol ratio 1.62); entry 98c: sample shows 98c+ is overpriced
 1789135978,KXBTC15M-26SEP111015-15,no,96,0,weak cushion (dist/vol ratio 1.23)
+1789136937,KXBTC15M-26SEP111030-30,no,95,55,weak cushion (dist/vol ratio 1.13); only 0s of confirmation; choppy window (4 crossings of 50c)
+1789138438,KXBTC15M-26SEP111100-00,yes,95,55,weak cushion (dist/vol ratio 1.64); only 20s of confirmation; choppy window (8 crossings of 50c)
+1789138468,KXBTC15M-26SEP111100-00,yes,95,55,weak cushion (dist/vol ratio 1.61); only 51s of confirmation; choppy window (8 crossings of 50c)
+1789138478,KXBTC15M-26SEP111100-00,yes,97,25,weak cushion (dist/vol ratio 1.83); choppy window (8 crossings of 50c)
+1789138488,KXBTC15M-26SEP111100-00,yes,95,25,weak cushion (dist/vol ratio 1.67); choppy window (8 crossings of 50c)
+1789138498,KXBTC15M-26SEP111100-00,yes,95,25,weak cushion (dist/vol ratio 1.62); choppy window (8 crossings of 50c)
+1789138548,KXBTC15M-26SEP111100-00,yes,95,25,weak cushion (dist/vol ratio 1.54); choppy window (8 crossings of 50c)
+1789138589,KXBTC15M-26SEP111100-00,yes,95,55,weak cushion (dist/vol ratio 1.60); only 10s of confirmation; choppy window (8 crossings of 50c)
+1789138599,KXBTC15M-26SEP111100-00,yes,96,55,weak cushion (dist/vol ratio 1.83); only 20s of confirmation; choppy window (8 crossings of 50c)
+1789138609,KXBTC15M-26SEP111100-00,yes,96,55,weak cushion (dist/vol ratio 1.71); only 30s of confirmation; choppy window (8 crossings of 50c)
+1789138619,KXBTC15M-26SEP111100-00,yes,97,55,weak cushion (dist/vol ratio 1.78); only 40s of confirmation; choppy window (8 crossings of 50c)
+1789138629,KXBTC15M-26SEP111100-00,yes,98,80,only 50s of confirmation; choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789139438,KXBTC15M-26SEP111115-15,no,96,30,weak cushion (dist/vol ratio 1.66); only 30s of confirmation
+1789139448,KXBTC15M-26SEP111115-15,no,96,30,weak cushion (dist/vol ratio 1.68); only 40s of confirmation
+1789139458,KXBTC15M-26SEP111115-15,no,95,30,weak cushion (dist/vol ratio 1.58); only 50s of confirmation
+1789139468,KXBTC15M-26SEP111115-15,no,96,0,weak cushion (dist/vol ratio 1.82)
