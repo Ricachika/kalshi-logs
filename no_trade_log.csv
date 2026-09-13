@@ -10575,3 +10575,25 @@ ts,ticker,side,price,risk_score,reasons
 1789315946,KXBTC15M-26SEP131215-15,yes,98,55,only 40s of confirmation; entry 98c: sample shows 98c+ is overpriced
 1789315956,KXBTC15M-26SEP131215-15,yes,96,30,only 50s of confirmation
 1789315966,KXBTC15M-26SEP131215-15,yes,98,25,entry 98c: sample shows 98c+ is overpriced
+1789316783,KXBTC15M-26SEP131230-30,yes,96,30,only 10s of confirmation
+1789316793,KXBTC15M-26SEP131230-30,yes,96,30,only 20s of confirmation
+1789316803,KXBTC15M-26SEP131230-30,yes,95,30,only 30s of confirmation
+1789316843,KXBTC15M-26SEP131230-30,yes,95,30,weak cushion (dist/vol ratio 1.47); only 10s of confirmation
+1789316853,KXBTC15M-26SEP131230-30,yes,95,30,weak cushion (dist/vol ratio 1.53); only 20s of confirmation
+1789316864,KXBTC15M-26SEP131230-30,yes,97,30,only 30s of confirmation
+1789316874,KXBTC15M-26SEP131230-30,yes,95,30,weak cushion (dist/vol ratio 1.45); only 41s of confirmation
+1789316884,KXBTC15M-26SEP131230-30,yes,97,30,weak cushion (dist/vol ratio 1.59); only 51s of confirmation
+1789316894,KXBTC15M-26SEP131230-30,yes,96,0,weak cushion (dist/vol ratio 1.33)
+1789316904,KXBTC15M-26SEP131230-30,yes,97,0,weak cushion (dist/vol ratio 1.37)
+1789316914,KXBTC15M-26SEP131230-30,yes,98,25,weak cushion (dist/vol ratio 1.85); entry 98c: sample shows 98c+ is overpriced
+1789316924,KXBTC15M-26SEP131230-30,yes,98,25,weak cushion (dist/vol ratio 1.48); entry 98c: sample shows 98c+ is overpriced
+1789317700,KXBTC15M-26SEP131245-45,yes,96,55,only 20s of confirmation; choppy window (7 crossings of 50c)
+1789317710,KXBTC15M-26SEP131245-45,yes,98,80,only 30s of confirmation; choppy window (7 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789317720,KXBTC15M-26SEP131245-45,yes,98,80,only 40s of confirmation; choppy window (7 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789317740,KXBTC15M-26SEP131245-45,yes,98,50,choppy window (7 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789317771,KXBTC15M-26SEP131245-45,yes,96,55,only 10s of confirmation; choppy window (7 crossings of 50c)
+1789317781,KXBTC15M-26SEP131245-45,yes,98,80,only 20s of confirmation; choppy window (7 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789317821,KXBTC15M-26SEP131245-45,yes,97,25,choppy window (7 crossings of 50c)
+1789319425,KXBTC15M-26SEP131315-15,yes,95,30,only 30s of confirmation
+1789319435,KXBTC15M-26SEP131315-15,yes,96,30,only 41s of confirmation
+1789319445,KXBTC15M-26SEP131315-15,yes,97,30,only 51s of confirmation
