@@ -10512,3 +10512,23 @@ ts,ticker,side,price,risk_score,reasons
 1789303257,KXBTC15M-26SEP130845-45,no,98,50,choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1789303267,KXBTC15M-26SEP130845-45,no,98,50,choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1789303277,KXBTC15M-26SEP130845-45,no,98,50,choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789305755,KXBTC15M-26SEP130930-30,no,95,25,choppy window (4 crossings of 50c)
+1789305765,KXBTC15M-26SEP130930-30,no,95,25,choppy window (4 crossings of 50c)
+1789305775,KXBTC15M-26SEP130930-30,no,95,25,choppy window (4 crossings of 50c)
+1789305806,KXBTC15M-26SEP130930-30,no,95,25,choppy window (4 crossings of 50c)
+1789305816,KXBTC15M-26SEP130930-30,no,96,25,choppy window (4 crossings of 50c)
+1789305826,KXBTC15M-26SEP130930-30,no,96,25,choppy window (4 crossings of 50c)
+1789305836,KXBTC15M-26SEP130930-30,no,96,25,choppy window (4 crossings of 50c)
+1789305846,KXBTC15M-26SEP130930-30,no,97,25,choppy window (4 crossings of 50c)
+1789305856,KXBTC15M-26SEP130930-30,no,95,25,choppy window (4 crossings of 50c)
+1789305866,KXBTC15M-26SEP130930-30,no,95,25,choppy window (4 crossings of 50c)
+1789305876,KXBTC15M-26SEP130930-30,no,96,25,choppy window (4 crossings of 50c)
+1789305886,KXBTC15M-26SEP130930-30,no,95,25,choppy window (4 crossings of 50c)
+1789305906,KXBTC15M-26SEP130930-30,no,95,25,choppy window (4 crossings of 50c)
+1789305916,KXBTC15M-26SEP130930-30,no,96,25,choppy window (4 crossings of 50c)
+1789305926,KXBTC15M-26SEP130930-30,no,96,25,choppy window (4 crossings of 50c)
+1789305936,KXBTC15M-26SEP130930-30,no,96,25,choppy window (4 crossings of 50c)
+1789305947,KXBTC15M-26SEP130930-30,no,96,25,choppy window (4 crossings of 50c)
+1789305957,KXBTC15M-26SEP130930-30,no,96,25,choppy window (4 crossings of 50c)
+1789305967,KXBTC15M-26SEP130930-30,no,98,50,choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789308483,KXBTC15M-26SEP131015-15,yes,95,30,only 40s of confirmation
