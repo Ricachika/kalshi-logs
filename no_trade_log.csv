@@ -10804,3 +10804,23 @@ ts,ticker,side,price,risk_score,reasons
 1789376295,KXBTC15M-26SEP140500-00,no,95,0,weak cushion (dist/vol ratio 1.58)
 1789376325,KXBTC15M-26SEP140500-00,no,95,0,weak cushion (dist/vol ratio 1.45)
 1789376336,KXBTC15M-26SEP140500-00,no,97,0,weak cushion (dist/vol ratio 1.50)
+1789377968,KXBTC15M-26SEP140530-30,no,95,55,only 50s of confirmation; choppy window (4 crossings of 50c)
+1789377978,KXBTC15M-26SEP140530-30,no,95,25,choppy window (4 crossings of 50c)
+1789377988,KXBTC15M-26SEP140530-30,no,96,25,choppy window (4 crossings of 50c)
+1789377998,KXBTC15M-26SEP140530-30,no,98,50,choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789378008,KXBTC15M-26SEP140530-30,no,96,25,choppy window (4 crossings of 50c)
+1789378069,KXBTC15M-26SEP140530-30,no,95,55,only 20s of confirmation; choppy window (4 crossings of 50c)
+1789378129,KXBTC15M-26SEP140530-30,no,95,55,weak cushion (dist/vol ratio 1.18); only 20s of confirmation; choppy window (4 crossings of 50c)
+1789378885,KXBTC15M-26SEP140545-45,yes,95,30,only 10s of confirmation
+1789378895,KXBTC15M-26SEP140545-45,yes,96,30,only 20s of confirmation
+1789378905,KXBTC15M-26SEP140545-45,yes,97,30,only 30s of confirmation
+1789378915,KXBTC15M-26SEP140545-45,yes,97,30,only 40s of confirmation
+1789378925,KXBTC15M-26SEP140545-45,yes,97,30,only 50s of confirmation
+1789378936,KXBTC15M-26SEP140545-45,yes,98,25,entry 98c: sample shows 98c+ is overpriced
+1789378946,KXBTC15M-26SEP140545-45,yes,98,25,entry 98c: sample shows 98c+ is overpriced
+1789378956,KXBTC15M-26SEP140545-45,yes,98,25,entry 98c: sample shows 98c+ is overpriced
+1789379510,KXBTC15M-26SEP140600-00,yes,95,30,only 40s of confirmation
+1789379520,KXBTC15M-26SEP140600-00,yes,95,30,only 50s of confirmation
+1789380728,KXBTC15M-26SEP140615-15,no,97,30,weak cushion (dist/vol ratio 1.67); only 40s of confirmation
+1789380738,KXBTC15M-26SEP140615-15,no,96,30,weak cushion (dist/vol ratio 1.69); only 50s of confirmation
+1789380748,KXBTC15M-26SEP140615-15,no,97,0,weak cushion (dist/vol ratio 1.78)
