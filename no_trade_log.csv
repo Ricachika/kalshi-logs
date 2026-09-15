@@ -11437,3 +11437,6 @@ ts,ticker,side,price,risk_score,reasons
 1789495948,KXBTC15M-26SEP151415-15,no,98,25,entry 98c: sample shows 98c+ is overpriced
 1789495958,KXBTC15M-26SEP151415-15,no,98,25,entry 98c: sample shows 98c+ is overpriced
 1789495968,KXBTC15M-26SEP151415-15,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1789496492,KXBTC15M-26SEP151430-30,no,95,30,only 40s of confirmation
+1789497429,KXBTC15M-26SEP151445-45,no,97,30,only 21s of confirmation
+1789497519,KXBTC15M-26SEP151445-45,no,96,30,only 50s of confirmation
