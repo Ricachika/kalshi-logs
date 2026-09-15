@@ -11371,3 +11371,25 @@ ts,ticker,side,price,risk_score,reasons
 1789488573,KXBTC15M-26SEP151215-15,no,97,30,only 30s of confirmation
 1789488584,KXBTC15M-26SEP151215-15,no,98,55,only 40s of confirmation; entry 98c: sample shows 98c+ is overpriced
 1789488594,KXBTC15M-26SEP151215-15,no,97,30,only 51s of confirmation
+1789489349,KXBTC15M-26SEP151230-30,yes,95,0,weak cushion (dist/vol ratio 1.61)
+1789489359,KXBTC15M-26SEP151230-30,yes,95,0,weak cushion (dist/vol ratio 1.59)
+1789489369,KXBTC15M-26SEP151230-30,yes,95,0,weak cushion (dist/vol ratio 1.56)
+1789489379,KXBTC15M-26SEP151230-30,yes,95,0,weak cushion (dist/vol ratio 1.56)
+1789489389,KXBTC15M-26SEP151230-30,yes,95,0,weak cushion (dist/vol ratio 1.66)
+1789489399,KXBTC15M-26SEP151230-30,yes,95,0,weak cushion (dist/vol ratio 1.56)
+1789489409,KXBTC15M-26SEP151230-30,yes,96,0,weak cushion (dist/vol ratio 1.85)
+1789489419,KXBTC15M-26SEP151230-30,yes,97,0,weak cushion (dist/vol ratio 1.89)
+1789489429,KXBTC15M-26SEP151230-30,yes,97,0,weak cushion (dist/vol ratio 1.88)
+1789489439,KXBTC15M-26SEP151230-30,yes,97,0,weak cushion (dist/vol ratio 1.59)
+1789490406,KXBTC15M-26SEP151245-45,no,97,30,only 50s of confirmation
+1789491293,KXBTC15M-26SEP151300-00,yes,96,30,only 20s of confirmation
+1789491303,KXBTC15M-26SEP151300-00,yes,97,30,only 30s of confirmation
+1789491313,KXBTC15M-26SEP151300-00,yes,96,30,only 40s of confirmation
+1789491323,KXBTC15M-26SEP151300-00,yes,97,30,only 50s of confirmation
+1789491333,KXBTC15M-26SEP151300-00,yes,98,25,entry 98c: sample shows 98c+ is overpriced
+1789491343,KXBTC15M-26SEP151300-00,yes,98,25,entry 98c: sample shows 98c+ is overpriced
+1789491353,KXBTC15M-26SEP151300-00,yes,98,25,entry 98c: sample shows 98c+ is overpriced
+1789491363,KXBTC15M-26SEP151300-00,yes,98,25,entry 98c: sample shows 98c+ is overpriced
+1789491374,KXBTC15M-26SEP151300-00,yes,98,25,entry 98c: sample shows 98c+ is overpriced
+1789492079,KXBTC15M-26SEP151315-15,no,96,30,only 41s of confirmation
+1789492089,KXBTC15M-26SEP151315-15,no,96,30,only 51s of confirmation
