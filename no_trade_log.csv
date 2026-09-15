@@ -11473,3 +11473,17 @@ ts,ticker,side,price,risk_score,reasons
 1789505856,KXBTC15M-26SEP151700-00,yes,97,0,weak cushion (dist/vol ratio 1.65)
 1789505866,KXBTC15M-26SEP151700-00,yes,98,25,weak cushion (dist/vol ratio 1.84); entry 98c: sample shows 98c+ is overpriced
 1789505876,KXBTC15M-26SEP151700-00,yes,98,25,entry 98c: sample shows 98c+ is overpriced
+1789508586,KXBTC15M-26SEP151745-45,yes,97,55,weak cushion (dist/vol ratio 1.49); only 10s of confirmation; choppy window (6 crossings of 50c)
+1789508596,KXBTC15M-26SEP151745-45,yes,98,80,weak cushion (dist/vol ratio 1.55); only 20s of confirmation; choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789508606,KXBTC15M-26SEP151745-45,yes,98,80,weak cushion (dist/vol ratio 1.87); only 30s of confirmation; choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789508616,KXBTC15M-26SEP151745-45,yes,98,80,weak cushion (dist/vol ratio 1.65); only 40s of confirmation; choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789508626,KXBTC15M-26SEP151745-45,yes,98,80,weak cushion (dist/vol ratio 1.54); only 50s of confirmation; choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789508636,KXBTC15M-26SEP151745-45,yes,98,50,choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789509301,KXBTC15M-26SEP151800-00,no,95,30,only 30s of confirmation
+1789509311,KXBTC15M-26SEP151800-00,no,97,30,only 40s of confirmation
+1789509321,KXBTC15M-26SEP151800-00,no,98,55,only 50s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1789509332,KXBTC15M-26SEP151800-00,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1789509342,KXBTC15M-26SEP151800-00,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1789509352,KXBTC15M-26SEP151800-00,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1789509362,KXBTC15M-26SEP151800-00,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1789510440,KXBTC15M-26SEP151815-15,no,97,55,weak cushion (dist/vol ratio 1.60); only 20s of confirmation; choppy window (15 crossings of 50c)
