@@ -11988,3 +11988,16 @@ ts,ticker,side,price,risk_score,reasons
 1789614792,KXBTC15M-26SEP162315-15,yes,98,25,weak cushion (dist/vol ratio 1.82); entry 98c: sample shows 98c+ is overpriced
 1789614802,KXBTC15M-26SEP162315-15,yes,96,0,weak cushion (dist/vol ratio 1.14)
 1789614813,KXBTC15M-26SEP162315-15,yes,96,0,weak cushion (dist/vol ratio 1.17)
+1789615669,KXBTC15M-26SEP162330-30,yes,95,55,weak cushion (dist/vol ratio 1.49); only 20s of confirmation; choppy window (6 crossings of 50c)
+1789615679,KXBTC15M-26SEP162330-30,yes,97,55,only 30s of confirmation; choppy window (6 crossings of 50c)
+1789616597,KXBTC15M-26SEP162345-45,no,96,55,weak cushion (dist/vol ratio 1.69); only 0s of confirmation; choppy window (13 crossings of 50c)
+1789616607,KXBTC15M-26SEP162345-45,no,97,55,weak cushion (dist/vol ratio 1.82); only 10s of confirmation; choppy window (13 crossings of 50c)
+1789616617,KXBTC15M-26SEP162345-45,no,97,55,only 20s of confirmation; choppy window (13 crossings of 50c)
+1789617383,KXBTC15M-26SEP170000-00,no,96,55,only 30s of confirmation; choppy window (5 crossings of 50c)
+1789617393,KXBTC15M-26SEP170000-00,no,96,55,only 40s of confirmation; choppy window (5 crossings of 50c)
+1789617434,KXBTC15M-26SEP170000-00,no,95,55,weak cushion (dist/vol ratio 1.60); only 21s of confirmation; choppy window (5 crossings of 50c)
+1789617444,KXBTC15M-26SEP170000-00,no,95,55,weak cushion (dist/vol ratio 1.65); only 31s of confirmation; choppy window (5 crossings of 50c)
+1789617454,KXBTC15M-26SEP170000-00,no,98,80,only 41s of confirmation; choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789617464,KXBTC15M-26SEP170000-00,no,98,80,only 51s of confirmation; choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789617524,KXBTC15M-26SEP170000-00,no,96,55,weak cushion (dist/vol ratio 1.72); only 20s of confirmation; choppy window (5 crossings of 50c)
+1789617534,KXBTC15M-26SEP170000-00,no,97,55,weak cushion (dist/vol ratio 1.82); only 30s of confirmation; choppy window (5 crossings of 50c)
