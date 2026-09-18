@@ -12674,3 +12674,22 @@ ts,ticker,side,price,risk_score,reasons
 1789765867,KXBTC15M-26SEP181715-15,yes,95,30,only 30s of confirmation
 1789765877,KXBTC15M-26SEP181715-15,yes,96,30,only 41s of confirmation
 1789765887,KXBTC15M-26SEP181715-15,yes,96,30,only 51s of confirmation
+1789766864,KXBTC15M-26SEP181730-30,no,96,30,weak cushion (dist/vol ratio 1.85); only 21s of confirmation
+1789766874,KXBTC15M-26SEP181730-30,no,97,30,only 31s of confirmation
+1789766884,KXBTC15M-26SEP181730-30,no,98,55,only 41s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1789767720,KXBTC15M-26SEP181745-45,yes,98,80,only 10s of confirmation; choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789767730,KXBTC15M-26SEP181745-45,yes,97,55,only 20s of confirmation; choppy window (8 crossings of 50c)
+1789767740,KXBTC15M-26SEP181745-45,yes,98,80,only 30s of confirmation; choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789767750,KXBTC15M-26SEP181745-45,yes,98,80,only 40s of confirmation; choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789767781,KXBTC15M-26SEP181745-45,yes,97,25,choppy window (8 crossings of 50c)
+1789767801,KXBTC15M-26SEP181745-45,yes,96,25,choppy window (8 crossings of 50c)
+1789768738,KXBTC15M-26SEP181800-00,yes,97,55,weak cushion (dist/vol ratio 0.92); only 0s of confirmation; choppy window (7 crossings of 50c)
+1789769423,KXBTC15M-26SEP181815-15,yes,95,25,choppy window (6 crossings of 50c)
+1789769433,KXBTC15M-26SEP181815-15,yes,95,25,choppy window (6 crossings of 50c)
+1789769443,KXBTC15M-26SEP181815-15,yes,96,25,choppy window (6 crossings of 50c)
+1789769453,KXBTC15M-26SEP181815-15,yes,96,25,choppy window (6 crossings of 50c)
+1789769463,KXBTC15M-26SEP181815-15,yes,97,25,choppy window (6 crossings of 50c)
+1789769474,KXBTC15M-26SEP181815-15,yes,97,25,choppy window (6 crossings of 50c)
+1789769484,KXBTC15M-26SEP181815-15,yes,97,25,choppy window (6 crossings of 50c)
+1789769544,KXBTC15M-26SEP181815-15,yes,95,25,choppy window (6 crossings of 50c)
+1789769554,KXBTC15M-26SEP181815-15,yes,95,25,choppy window (6 crossings of 50c)
