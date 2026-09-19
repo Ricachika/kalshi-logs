@@ -12741,3 +12741,20 @@ ts,ticker,side,price,risk_score,reasons
 1789780235,KXBTC15M-26SEP182115-15,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1789780245,KXBTC15M-26SEP182115-15,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1789780255,KXBTC15M-26SEP182115-15,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789782644,KXBTC15M-26SEP182200-00,yes,95,30,only 51s of confirmation
+1789783831,KXBTC15M-26SEP182215-15,yes,95,55,weak cushion (dist/vol ratio 1.64); only 30s of confirmation; choppy window (10 crossings of 50c)
+1789783842,KXBTC15M-26SEP182215-15,yes,97,55,only 40s of confirmation; choppy window (10 crossings of 50c)
+1789783852,KXBTC15M-26SEP182215-15,yes,97,55,only 51s of confirmation; choppy window (10 crossings of 50c)
+1789783862,KXBTC15M-26SEP182215-15,yes,97,25,choppy window (10 crossings of 50c)
+1789783872,KXBTC15M-26SEP182215-15,yes,96,25,choppy window (10 crossings of 50c)
+1789783882,KXBTC15M-26SEP182215-15,yes,97,25,choppy window (10 crossings of 50c)
+1789783892,KXBTC15M-26SEP182215-15,yes,98,50,choppy window (10 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789783902,KXBTC15M-26SEP182215-15,yes,98,50,choppy window (10 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789783912,KXBTC15M-26SEP182215-15,yes,97,25,choppy window (10 crossings of 50c)
+1789783922,KXBTC15M-26SEP182215-15,yes,97,25,choppy window (10 crossings of 50c)
+1789783932,KXBTC15M-26SEP182215-15,yes,97,25,choppy window (10 crossings of 50c)
+1789783953,KXBTC15M-26SEP182215-15,yes,96,25,choppy window (10 crossings of 50c)
+1789783963,KXBTC15M-26SEP182215-15,yes,97,25,choppy window (10 crossings of 50c)
+1789783973,KXBTC15M-26SEP182215-15,yes,97,25,choppy window (10 crossings of 50c)
+1789783983,KXBTC15M-26SEP182215-15,yes,97,25,choppy window (10 crossings of 50c)
+1789783993,KXBTC15M-26SEP182215-15,yes,98,50,choppy window (10 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
