@@ -13263,3 +13263,26 @@ ts,ticker,side,price,risk_score,reasons
 1789905522,KXBTC15M-26SEP200800-00,yes,97,55,weak cushion (dist/vol ratio 0.55); only 10s of confirmation; choppy window (7 crossings of 50c)
 1789906368,KXBTC15M-26SEP200815-15,yes,95,55,weak cushion (dist/vol ratio 1.82); only 0s of confirmation; choppy window (5 crossings of 50c)
 1789906378,KXBTC15M-26SEP200815-15,yes,97,55,weak cushion (dist/vol ratio 1.89); only 10s of confirmation; choppy window (5 crossings of 50c)
+1789907074,KXBTC15M-26SEP200830-30,no,95,55,only 50s of confirmation; choppy window (5 crossings of 50c)
+1789907084,KXBTC15M-26SEP200830-30,no,95,25,choppy window (5 crossings of 50c)
+1789907094,KXBTC15M-26SEP200830-30,no,95,25,choppy window (5 crossings of 50c)
+1789907104,KXBTC15M-26SEP200830-30,no,96,25,choppy window (5 crossings of 50c)
+1789907114,KXBTC15M-26SEP200830-30,no,96,25,choppy window (5 crossings of 50c)
+1789907124,KXBTC15M-26SEP200830-30,no,96,25,choppy window (5 crossings of 50c)
+1789907135,KXBTC15M-26SEP200830-30,no,97,25,choppy window (5 crossings of 50c)
+1789907145,KXBTC15M-26SEP200830-30,no,97,25,choppy window (5 crossings of 50c)
+1789907155,KXBTC15M-26SEP200830-30,no,97,25,choppy window (5 crossings of 50c)
+1789907165,KXBTC15M-26SEP200830-30,no,96,25,choppy window (5 crossings of 50c)
+1789907175,KXBTC15M-26SEP200830-30,no,96,25,choppy window (5 crossings of 50c)
+1789907195,KXBTC15M-26SEP200830-30,no,95,25,choppy window (5 crossings of 50c)
+1789907205,KXBTC15M-26SEP200830-30,no,97,25,choppy window (5 crossings of 50c)
+1789907215,KXBTC15M-26SEP200830-30,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789907225,KXBTC15M-26SEP200830-30,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789907235,KXBTC15M-26SEP200830-30,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789907245,KXBTC15M-26SEP200830-30,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1789908848,KXBTC15M-26SEP200900-00,yes,95,30,only 10s of confirmation
+1789908858,KXBTC15M-26SEP200900-00,yes,96,30,only 20s of confirmation
+1789908868,KXBTC15M-26SEP200900-00,yes,95,30,only 30s of confirmation
+1789908878,KXBTC15M-26SEP200900-00,yes,96,30,only 40s of confirmation
+1789908888,KXBTC15M-26SEP200900-00,yes,97,30,only 50s of confirmation
+1789909644,KXBTC15M-26SEP200915-15,yes,96,30,only 51s of confirmation
