@@ -14223,3 +14223,19 @@ ts,ticker,side,price,risk_score,reasons
 1790096069,KXBTC15M-26SEP221300-00,yes,97,25,choppy window (5 crossings of 50c)
 1790096079,KXBTC15M-26SEP221300-00,yes,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1790096089,KXBTC15M-26SEP221300-00,yes,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790098015,KXBTC15M-26SEP221330-30,yes,95,30,weak cushion (dist/vol ratio 1.39); only 20s of confirmation
+1790098036,KXBTC15M-26SEP221330-30,yes,96,30,weak cushion (dist/vol ratio 1.42); only 41s of confirmation
+1790098046,KXBTC15M-26SEP221330-30,yes,96,30,weak cushion (dist/vol ratio 1.31); only 51s of confirmation
+1790098056,KXBTC15M-26SEP221330-30,yes,97,0,weak cushion (dist/vol ratio 1.50)
+1790098066,KXBTC15M-26SEP221330-30,yes,98,25,weak cushion (dist/vol ratio 1.53); entry 98c: sample shows 98c+ is overpriced
+1790099034,KXBTC15M-26SEP221345-45,no,98,80,only 0s of confirmation; choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790099790,KXBTC15M-26SEP221400-00,yes,96,55,only 30s of confirmation; choppy window (8 crossings of 50c)
+1790099800,KXBTC15M-26SEP221400-00,yes,97,55,only 40s of confirmation; choppy window (8 crossings of 50c)
+1790099810,KXBTC15M-26SEP221400-00,yes,98,80,only 50s of confirmation; choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790099821,KXBTC15M-26SEP221400-00,yes,98,50,choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790100627,KXBTC15M-26SEP221415-15,no,95,30,weak cushion (dist/vol ratio 1.58); only 10s of confirmation
+1790100637,KXBTC15M-26SEP221415-15,no,97,30,weak cushion (dist/vol ratio 1.90); only 20s of confirmation
+1790100647,KXBTC15M-26SEP221415-15,no,97,30,only 30s of confirmation
+1790100657,KXBTC15M-26SEP221415-15,no,97,30,only 40s of confirmation
+1790100667,KXBTC15M-26SEP221415-15,no,98,55,only 50s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1790100788,KXBTC15M-26SEP221415-15,no,95,30,weak cushion (dist/vol ratio 1.20); only 0s of confirmation
