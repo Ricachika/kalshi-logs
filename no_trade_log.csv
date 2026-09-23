@@ -14690,3 +14690,37 @@ ts,ticker,side,price,risk_score,reasons
 1790179795,KXBTC15M-26SEP231215-15,yes,98,25,weak cushion (dist/vol ratio 1.89); entry 98c: sample shows 98c+ is overpriced
 1790179815,KXBTC15M-26SEP231215-15,yes,98,25,weak cushion (dist/vol ratio 1.85); entry 98c: sample shows 98c+ is overpriced
 1790179866,KXBTC15M-26SEP231215-15,yes,98,25,weak cushion (dist/vol ratio 1.83); entry 98c: sample shows 98c+ is overpriced
+1790180864,KXBTC15M-26SEP231230-30,no,95,55,weak cushion (dist/vol ratio 1.20); only 10s of confirmation; choppy window (6 crossings of 50c)
+1790180874,KXBTC15M-26SEP231230-30,no,95,55,weak cushion (dist/vol ratio 1.19); only 20s of confirmation; choppy window (6 crossings of 50c)
+1790180884,KXBTC15M-26SEP231230-30,no,97,55,weak cushion (dist/vol ratio 1.50); only 30s of confirmation; choppy window (6 crossings of 50c)
+1790181620,KXBTC15M-26SEP231245-45,no,95,55,only 40s of confirmation; choppy window (5 crossings of 50c)
+1790181630,KXBTC15M-26SEP231245-45,no,96,55,only 51s of confirmation; choppy window (5 crossings of 50c)
+1790181640,KXBTC15M-26SEP231245-45,no,97,25,choppy window (5 crossings of 50c)
+1790181650,KXBTC15M-26SEP231245-45,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790181660,KXBTC15M-26SEP231245-45,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790181761,KXBTC15M-26SEP231245-45,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790181791,KXBTC15M-26SEP231245-45,no,97,25,choppy window (5 crossings of 50c)
+1790181801,KXBTC15M-26SEP231245-45,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790181811,KXBTC15M-26SEP231245-45,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790182396,KXBTC15M-26SEP231300-00,no,95,25,choppy window (4 crossings of 50c)
+1790182406,KXBTC15M-26SEP231300-00,no,96,25,choppy window (4 crossings of 50c)
+1790182416,KXBTC15M-26SEP231300-00,no,96,25,choppy window (4 crossings of 50c)
+1790182426,KXBTC15M-26SEP231300-00,no,96,25,choppy window (4 crossings of 50c)
+1790182476,KXBTC15M-26SEP231300-00,no,96,25,choppy window (4 crossings of 50c)
+1790182486,KXBTC15M-26SEP231300-00,no,96,25,choppy window (4 crossings of 50c)
+1790182506,KXBTC15M-26SEP231300-00,no,95,25,choppy window (4 crossings of 50c)
+1790182537,KXBTC15M-26SEP231300-00,no,95,25,choppy window (4 crossings of 50c)
+1790182547,KXBTC15M-26SEP231300-00,no,98,50,choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790182557,KXBTC15M-26SEP231300-00,no,98,50,choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790182567,KXBTC15M-26SEP231300-00,no,97,25,choppy window (4 crossings of 50c)
+1790182577,KXBTC15M-26SEP231300-00,no,97,25,choppy window (4 crossings of 50c)
+1790182597,KXBTC15M-26SEP231300-00,no,98,50,choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790182607,KXBTC15M-26SEP231300-00,no,97,25,choppy window (4 crossings of 50c)
+1790182617,KXBTC15M-26SEP231300-00,no,95,25,weak cushion (dist/vol ratio 1.58); choppy window (4 crossings of 50c)
+1790182637,KXBTC15M-26SEP231300-00,no,95,25,weak cushion (dist/vol ratio 1.67); choppy window (4 crossings of 50c)
+1790182658,KXBTC15M-26SEP231300-00,no,95,55,weak cushion (dist/vol ratio 1.56); only 0s of confirmation; choppy window (4 crossings of 50c)
+1790182668,KXBTC15M-26SEP231300-00,no,98,80,only 11s of confirmation; choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790182718,KXBTC15M-26SEP231300-00,no,98,50,choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790182728,KXBTC15M-26SEP231300-00,no,98,50,weak cushion (dist/vol ratio 1.56); choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790183333,KXBTC15M-26SEP231315-15,no,96,30,only 31s of confirmation
+1790183353,KXBTC15M-26SEP231315-15,no,98,55,only 51s of confirmation; entry 98c: sample shows 98c+ is overpriced
