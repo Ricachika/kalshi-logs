@@ -15157,3 +15157,14 @@ ts,ticker,side,price,risk_score,reasons
 1790283504,KXBTC15M-26SEP241700-00,no,98,50,choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1790283514,KXBTC15M-26SEP241700-00,no,98,50,choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1790283534,KXBTC15M-26SEP241700-00,no,95,25,weak cushion (dist/vol ratio 1.36); choppy window (6 crossings of 50c)
+1790286164,KXBTC15M-26SEP241745-45,yes,95,55,only 50s of confirmation; choppy window (4 crossings of 50c)
+1790286175,KXBTC15M-26SEP241745-45,yes,96,25,choppy window (4 crossings of 50c)
+1790286185,KXBTC15M-26SEP241745-45,yes,96,25,choppy window (4 crossings of 50c)
+1790286215,KXBTC15M-26SEP241745-45,yes,95,55,only 0s of confirmation; choppy window (4 crossings of 50c)
+1790286225,KXBTC15M-26SEP241745-45,yes,98,80,only 10s of confirmation; choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790286235,KXBTC15M-26SEP241745-45,yes,97,55,only 20s of confirmation; choppy window (4 crossings of 50c)
+1790286931,KXBTC15M-26SEP241800-00,no,95,30,only 10s of confirmation
+1790286941,KXBTC15M-26SEP241800-00,no,96,30,only 21s of confirmation
+1790286951,KXBTC15M-26SEP241800-00,no,96,30,only 31s of confirmation
+1790286961,KXBTC15M-26SEP241800-00,no,97,30,only 41s of confirmation
+1790286971,KXBTC15M-26SEP241800-00,no,97,30,only 51s of confirmation
