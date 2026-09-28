@@ -16533,3 +16533,17 @@ ts,ticker,side,price,risk_score,reasons
 1790586530,KXBTC15M-26SEP280515-15,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1790586540,KXBTC15M-26SEP280515-15,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1790586551,KXBTC15M-26SEP280515-15,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790587639,KXBTC15M-26SEP280530-30,no,95,55,weak cushion (dist/vol ratio 1.29); only 20s of confirmation; choppy window (7 crossings of 50c)
+1790587649,KXBTC15M-26SEP280530-30,no,97,55,weak cushion (dist/vol ratio 1.26); only 30s of confirmation; choppy window (7 crossings of 50c)
+1790587659,KXBTC15M-26SEP280530-30,no,98,80,weak cushion (dist/vol ratio 1.65); only 40s of confirmation; choppy window (7 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790587669,KXBTC15M-26SEP280530-30,no,98,80,weak cushion (dist/vol ratio 1.68); only 50s of confirmation; choppy window (7 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790588264,KXBTC15M-26SEP280545-45,no,95,30,weak cushion (dist/vol ratio 1.70); only 30s of confirmation
+1790588274,KXBTC15M-26SEP280545-45,no,95,30,weak cushion (dist/vol ratio 1.78); only 41s of confirmation
+1790590197,KXBTC15M-26SEP280615-15,yes,96,30,weak cushion (dist/vol ratio 1.64); only 40s of confirmation
+1790590228,KXBTC15M-26SEP280615-15,yes,95,0,weak cushion (dist/vol ratio 1.33)
+1790590238,KXBTC15M-26SEP280615-15,yes,95,0,weak cushion (dist/vol ratio 1.44)
+1790590248,KXBTC15M-26SEP280615-15,yes,95,0,weak cushion (dist/vol ratio 1.47)
+1790590358,KXBTC15M-26SEP280615-15,yes,95,30,weak cushion (dist/vol ratio 1.16); only 20s of confirmation
+1790590379,KXBTC15M-26SEP280615-15,yes,95,30,weak cushion (dist/vol ratio 1.21); only 41s of confirmation
+1790590389,KXBTC15M-26SEP280615-15,yes,96,30,weak cushion (dist/vol ratio 1.00); only 51s of confirmation
+1790590409,KXBTC15M-26SEP280615-15,yes,96,0,weak cushion (dist/vol ratio 0.74)
