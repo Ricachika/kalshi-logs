@@ -17133,3 +17133,17 @@ ts,ticker,side,price,risk_score,reasons
 1790704528,KXBTC15M-26SEP291400-00,no,96,30,only 41s of confirmation
 1790704538,KXBTC15M-26SEP291400-00,no,97,30,only 51s of confirmation
 1790705102,KXBTC15M-26SEP291415-15,yes,95,30,only 51s of confirmation
+1790706512,KXBTC15M-26SEP291430-30,yes,98,80,weak cushion (dist/vol ratio 1.39); only 0s of confirmation; choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790707117,KXBTC15M-26SEP291445-45,yes,96,30,only 20s of confirmation
+1790707127,KXBTC15M-26SEP291445-45,yes,96,30,only 30s of confirmation
+1790707137,KXBTC15M-26SEP291445-45,yes,95,30,weak cushion (dist/vol ratio 1.82); only 40s of confirmation
+1790707148,KXBTC15M-26SEP291445-45,yes,96,30,only 50s of confirmation
+1790707158,KXBTC15M-26SEP291445-45,yes,98,25,entry 98c: sample shows 98c+ is overpriced
+1790708276,KXBTC15M-26SEP291500-00,no,97,55,weak cushion (dist/vol ratio 1.34); only 30s of confirmation; choppy window (8 crossings of 50c)
+1790708286,KXBTC15M-26SEP291500-00,no,98,80,weak cushion (dist/vol ratio 1.40); only 40s of confirmation; choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790708317,KXBTC15M-26SEP291500-00,no,96,25,weak cushion (dist/vol ratio 1.19); choppy window (8 crossings of 50c)
+1790708327,KXBTC15M-26SEP291500-00,no,96,25,weak cushion (dist/vol ratio 0.98); choppy window (8 crossings of 50c)
+1790708337,KXBTC15M-26SEP291500-00,no,98,50,weak cushion (dist/vol ratio 1.06); choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790709205,KXBTC15M-26SEP291515-15,no,95,55,weak cushion (dist/vol ratio 1.34); only 10s of confirmation; choppy window (7 crossings of 50c)
+1790709215,KXBTC15M-26SEP291515-15,no,96,55,weak cushion (dist/vol ratio 1.49); only 20s of confirmation; choppy window (7 crossings of 50c)
+1790709225,KXBTC15M-26SEP291515-15,no,98,80,weak cushion (dist/vol ratio 1.58); only 30s of confirmation; choppy window (7 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
