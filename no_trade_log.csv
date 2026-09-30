@@ -17350,3 +17350,22 @@ ts,ticker,side,price,risk_score,reasons
 1790748650,KXBTC15M-26SEP300215-15,no,98,50,choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1790748660,KXBTC15M-26SEP300215-15,no,98,50,choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1790748670,KXBTC15M-26SEP300215-15,no,98,50,choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790749588,KXBTC15M-26SEP300230-30,no,95,25,choppy window (5 crossings of 50c)
+1790749598,KXBTC15M-26SEP300230-30,no,97,25,choppy window (5 crossings of 50c)
+1790749609,KXBTC15M-26SEP300230-30,no,97,25,choppy window (5 crossings of 50c)
+1790749619,KXBTC15M-26SEP300230-30,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790749629,KXBTC15M-26SEP300230-30,no,96,25,choppy window (5 crossings of 50c)
+1790749639,KXBTC15M-26SEP300230-30,no,97,25,choppy window (5 crossings of 50c)
+1790749649,KXBTC15M-26SEP300230-30,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790749669,KXBTC15M-26SEP300230-30,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790749679,KXBTC15M-26SEP300230-30,no,98,50,choppy window (5 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790750505,KXBTC15M-26SEP300245-45,no,95,30,only 30s of confirmation
+1790750515,KXBTC15M-26SEP300245-45,no,97,30,only 40s of confirmation
+1790750525,KXBTC15M-26SEP300245-45,no,97,30,only 50s of confirmation
+1790751522,KXBTC15M-26SEP300300-00,yes,98,55,weak cushion (dist/vol ratio 1.27); only 10s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1790751532,KXBTC15M-26SEP300300-00,yes,96,30,weak cushion (dist/vol ratio 0.90); only 20s of confirmation
+1790752358,KXBTC15M-26SEP300315-15,no,95,30,weak cushion (dist/vol ratio 1.85); only 41s of confirmation
+1790752368,KXBTC15M-26SEP300315-15,no,96,30,only 51s of confirmation
+1790752378,KXBTC15M-26SEP300315-15,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1790752388,KXBTC15M-26SEP300315-15,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1790752398,KXBTC15M-26SEP300315-15,no,98,25,entry 98c: sample shows 98c+ is overpriced
