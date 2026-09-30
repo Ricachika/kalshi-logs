@@ -17393,3 +17393,15 @@ ts,ticker,side,price,risk_score,reasons
 1790755791,KXBTC15M-26SEP300415-15,no,95,30,only 30s of confirmation
 1790755801,KXBTC15M-26SEP300415-15,no,95,30,only 40s of confirmation
 1790755811,KXBTC15M-26SEP300415-15,no,96,30,only 50s of confirmation
+1790756525,KXBTC15M-26SEP300430-30,yes,95,30,weak cushion (dist/vol ratio 1.73); only 50s of confirmation
+1790756908,KXBTC15M-26SEP300430-30,yes,95,30,weak cushion (dist/vol ratio 1.12); only 0s of confirmation
+1790756928,KXBTC15M-26SEP300430-30,yes,97,30,weak cushion (dist/vol ratio 1.21); only 0s of confirmation
+1790756938,KXBTC15M-26SEP300430-30,yes,97,30,weak cushion (dist/vol ratio 0.75); only 10s of confirmation
+1790757734,KXBTC15M-26SEP300445-45,no,96,30,weak cushion (dist/vol ratio 1.52); only 20s of confirmation
+1790757744,KXBTC15M-26SEP300445-45,no,96,30,weak cushion (dist/vol ratio 1.68); only 30s of confirmation
+1790757754,KXBTC15M-26SEP300445-45,no,97,30,weak cushion (dist/vol ratio 1.66); only 40s of confirmation
+1790757764,KXBTC15M-26SEP300445-45,no,97,30,weak cushion (dist/vol ratio 1.72); only 50s of confirmation
+1790757774,KXBTC15M-26SEP300445-45,no,98,25,weak cushion (dist/vol ratio 1.58); entry 98c: sample shows 98c+ is overpriced
+1790757784,KXBTC15M-26SEP300445-45,no,98,25,weak cushion (dist/vol ratio 1.65); entry 98c: sample shows 98c+ is overpriced
+1790759144,KXBTC15M-26SEP300515-15,yes,95,30,only 40s of confirmation
+1790759155,KXBTC15M-26SEP300515-15,yes,96,30,only 50s of confirmation
