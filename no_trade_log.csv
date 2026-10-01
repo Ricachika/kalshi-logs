@@ -17756,3 +17756,17 @@ ts,ticker,side,price,risk_score,reasons
 1790849218,KXBTC15M-26OCT010615-15,no,98,25,entry 98c: sample shows 98c+ is overpriced
 1790849228,KXBTC15M-26OCT010615-15,no,98,25,entry 98c: sample shows 98c+ is overpriced
 1790849238,KXBTC15M-26OCT010615-15,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1790850466,KXBTC15M-26OCT010630-30,no,96,55,weak cushion (dist/vol ratio 1.08); only 31s of confirmation; choppy window (6 crossings of 50c)
+1790850476,KXBTC15M-26OCT010630-30,no,98,80,weak cushion (dist/vol ratio 1.32); only 41s of confirmation; choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790850486,KXBTC15M-26OCT010630-30,no,98,80,weak cushion (dist/vol ratio 1.47); only 51s of confirmation; choppy window (6 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790850516,KXBTC15M-26OCT010630-30,no,95,25,weak cushion (dist/vol ratio 0.94); choppy window (6 crossings of 50c)
+1790851302,KXBTC15M-26OCT010645-45,yes,97,30,weak cushion (dist/vol ratio 1.25); only 10s of confirmation
+1790851312,KXBTC15M-26OCT010645-45,yes,97,30,weak cushion (dist/vol ratio 1.42); only 20s of confirmation
+1790851322,KXBTC15M-26OCT010645-45,yes,98,55,weak cushion (dist/vol ratio 1.49); only 30s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1790851987,KXBTC15M-26OCT010700-00,yes,95,30,weak cushion (dist/vol ratio 1.90); only 31s of confirmation
+1790852017,KXBTC15M-26OCT010700-00,yes,95,0,weak cushion (dist/vol ratio 1.89)
+1790853023,KXBTC15M-26OCT010715-15,no,96,30,weak cushion (dist/vol ratio 1.40); only 20s of confirmation
+1790853033,KXBTC15M-26OCT010715-15,no,97,30,weak cushion (dist/vol ratio 1.61); only 30s of confirmation
+1790853124,KXBTC15M-26OCT010715-15,no,98,55,weak cushion (dist/vol ratio 1.65); only 10s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1790853134,KXBTC15M-26OCT010715-15,no,97,30,weak cushion (dist/vol ratio 1.54); only 20s of confirmation
+1790853144,KXBTC15M-26OCT010715-15,no,98,55,weak cushion (dist/vol ratio 1.88); only 30s of confirmation; entry 98c: sample shows 98c+ is overpriced
