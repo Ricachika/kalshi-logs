@@ -17708,3 +17708,20 @@ ts,ticker,side,price,risk_score,reasons
 1790835086,KXBTC15M-26OCT010215-15,yes,96,55,weak cushion (dist/vol ratio 1.80); only 10s of confirmation; choppy window (10 crossings of 50c)
 1790835096,KXBTC15M-26OCT010215-15,yes,97,55,only 21s of confirmation; choppy window (10 crossings of 50c)
 1790835106,KXBTC15M-26OCT010215-15,yes,98,80,only 31s of confirmation; choppy window (10 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790835922,KXBTC15M-26OCT010230-30,no,95,30,only 0s of confirmation
+1790835932,KXBTC15M-26OCT010230-30,no,96,30,only 10s of confirmation
+1790836023,KXBTC15M-26OCT010230-30,no,97,30,only 20s of confirmation
+1790836033,KXBTC15M-26OCT010230-30,no,96,30,only 30s of confirmation
+1790836053,KXBTC15M-26OCT010230-30,no,96,30,only 50s of confirmation
+1790836617,KXBTC15M-26OCT010245-45,no,95,55,only 51s of confirmation; choppy window (3 crossings of 50c)
+1790836627,KXBTC15M-26OCT010245-45,no,96,25,choppy window (3 crossings of 50c)
+1790836637,KXBTC15M-26OCT010245-45,no,96,25,choppy window (3 crossings of 50c)
+1790836647,KXBTC15M-26OCT010245-45,no,97,25,choppy window (3 crossings of 50c)
+1790836657,KXBTC15M-26OCT010245-45,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790836667,KXBTC15M-26OCT010245-45,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790836678,KXBTC15M-26OCT010245-45,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790836688,KXBTC15M-26OCT010245-45,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790836698,KXBTC15M-26OCT010245-45,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790836728,KXBTC15M-26OCT010245-45,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790836738,KXBTC15M-26OCT010245-45,no,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790837735,KXBTC15M-26OCT010300-00,yes,95,55,weak cushion (dist/vol ratio 1.14); only 20s of confirmation; choppy window (6 crossings of 50c)
