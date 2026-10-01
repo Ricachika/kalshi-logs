@@ -17848,3 +17848,16 @@ ts,ticker,side,price,risk_score,reasons
 1790863988,KXBTC15M-26OCT011015-15,no,96,55,weak cushion (dist/vol ratio 1.49); only 10s of confirmation; choppy window (7 crossings of 50c)
 1790864008,KXBTC15M-26OCT011015-15,no,97,55,weak cushion (dist/vol ratio 1.37); only 30s of confirmation; choppy window (7 crossings of 50c)
 1790864028,KXBTC15M-26OCT011015-15,no,97,55,weak cushion (dist/vol ratio 1.10); only 50s of confirmation; choppy window (7 crossings of 50c)
+1790864673,KXBTC15M-26OCT011030-30,yes,95,30,weak cushion (dist/vol ratio 1.59); only 20s of confirmation
+1790864683,KXBTC15M-26OCT011030-30,yes,95,30,weak cushion (dist/vol ratio 1.62); only 30s of confirmation
+1790864694,KXBTC15M-26OCT011030-30,yes,98,55,only 40s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1790864704,KXBTC15M-26OCT011030-30,yes,97,30,only 51s of confirmation
+1790864714,KXBTC15M-26OCT011030-30,yes,98,25,entry 98c: sample shows 98c+ is overpriced
+1790864724,KXBTC15M-26OCT011030-30,yes,98,25,entry 98c: sample shows 98c+ is overpriced
+1790864734,KXBTC15M-26OCT011030-30,yes,98,25,entry 98c: sample shows 98c+ is overpriced
+1790865782,KXBTC15M-26OCT011045-45,no,98,80,weak cushion (dist/vol ratio 1.59); only 0s of confirmation; choppy window (10 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790865792,KXBTC15M-26OCT011045-45,no,96,55,weak cushion (dist/vol ratio 1.44); only 10s of confirmation; choppy window (10 crossings of 50c)
+1790865813,KXBTC15M-26OCT011045-45,no,96,55,weak cushion (dist/vol ratio 1.32); only 31s of confirmation; choppy window (10 crossings of 50c)
+1790865823,KXBTC15M-26OCT011045-45,no,98,80,weak cushion (dist/vol ratio 1.46); only 41s of confirmation; choppy window (10 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790865833,KXBTC15M-26OCT011045-45,no,97,55,weak cushion (dist/vol ratio 1.27); only 51s of confirmation; choppy window (10 crossings of 50c)
+1790866659,KXBTC15M-26OCT011100-00,no,96,30,weak cushion (dist/vol ratio 1.21); only 0s of confirmation
