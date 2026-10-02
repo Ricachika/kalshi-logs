@@ -18027,3 +18027,18 @@ ts,ticker,side,price,risk_score,reasons
 1790899118,KXBTC15M-26OCT012000-00,yes,96,55,weak cushion (dist/vol ratio 1.76); only 20s of confirmation; choppy window (11 crossings of 50c)
 1790899724,KXBTC15M-26OCT012015-15,no,95,30,only 40s of confirmation
 1790899734,KXBTC15M-26OCT012015-15,no,96,30,only 50s of confirmation
+1790900843,KXBTC15M-26OCT012030-30,no,96,55,weak cushion (dist/vol ratio 1.72); only 10s of confirmation; choppy window (10 crossings of 50c)
+1790900853,KXBTC15M-26OCT012030-30,no,97,55,weak cushion (dist/vol ratio 1.86); only 20s of confirmation; choppy window (10 crossings of 50c)
+1790900863,KXBTC15M-26OCT012030-30,no,98,80,only 30s of confirmation; choppy window (10 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790900873,KXBTC15M-26OCT012030-30,no,98,80,only 40s of confirmation; choppy window (10 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790900884,KXBTC15M-26OCT012030-30,no,98,80,weak cushion (dist/vol ratio 1.72); only 50s of confirmation; choppy window (10 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790900904,KXBTC15M-26OCT012030-30,no,98,50,weak cushion (dist/vol ratio 1.89); choppy window (10 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1790901791,KXBTC15M-26OCT012045-45,yes,97,30,weak cushion (dist/vol ratio 1.85); only 10s of confirmation
+1790901801,KXBTC15M-26OCT012045-45,yes,97,30,weak cushion (dist/vol ratio 1.61); only 20s of confirmation
+1790902566,KXBTC15M-26OCT012100-00,no,95,30,only 21s of confirmation
+1790902576,KXBTC15M-26OCT012100-00,no,97,30,only 31s of confirmation
+1790902586,KXBTC15M-26OCT012100-00,no,97,30,only 41s of confirmation
+1790902596,KXBTC15M-26OCT012100-00,no,98,55,only 51s of confirmation; entry 98c: sample shows 98c+ is overpriced
+1790902606,KXBTC15M-26OCT012100-00,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1790903418,KXBTC15M-26OCT012115-15,no,95,30,weak cushion (dist/vol ratio 1.81); only 41s of confirmation
+1790903428,KXBTC15M-26OCT012115-15,no,96,30,only 51s of confirmation
