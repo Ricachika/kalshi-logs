@@ -18730,3 +18730,4 @@ ts,ticker,side,price,risk_score,reasons
 1791072764,KXBTC15M-26OCT032015-15,yes,98,25,entry 98c: sample shows 98c+ is overpriced
 1791072774,KXBTC15M-26OCT032015-15,yes,98,25,entry 98c: sample shows 98c+ is overpriced
 1791072784,KXBTC15M-26OCT032015-15,yes,98,25,entry 98c: sample shows 98c+ is overpriced
+1791075536,KXBTC15M-26OCT032100-00,no,95,55,only 30s of confirmation; choppy window (3 crossings of 50c)
