@@ -18792,3 +18792,6 @@ ts,ticker,side,price,risk_score,reasons
 1791087175,KXBTC15M-26OCT040015-15,no,98,25,entry 98c: sample shows 98c+ is overpriced
 1791087185,KXBTC15M-26OCT040015-15,no,98,25,entry 98c: sample shows 98c+ is overpriced
 1791087205,KXBTC15M-26OCT040015-15,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1791088102,KXBTC15M-26OCT040030-30,yes,96,30,weak cushion (dist/vol ratio 0.03); only 30s of confirmation
+1791088112,KXBTC15M-26OCT040030-30,yes,96,30,weak cushion (dist/vol ratio 0.03); only 40s of confirmation
+1791088122,KXBTC15M-26OCT040030-30,yes,98,55,weak cushion (dist/vol ratio 0.03); only 50s of confirmation; entry 98c: sample shows 98c+ is overpriced
