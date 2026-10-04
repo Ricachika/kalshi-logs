@@ -18769,3 +18769,26 @@ ts,ticker,side,price,risk_score,reasons
 1791081783,KXBTC15M-26OCT032245-45,no,97,55,only 30s of confirmation; choppy window (5 crossings of 50c)
 1791081793,KXBTC15M-26OCT032245-45,no,97,55,only 40s of confirmation; choppy window (5 crossings of 50c)
 1791081803,KXBTC15M-26OCT032245-45,no,97,55,only 50s of confirmation; choppy window (5 crossings of 50c)
+1791086116,KXBTC15M-26OCT040000-00,no,95,55,only 50s of confirmation; choppy window (4 crossings of 50c)
+1791086126,KXBTC15M-26OCT040000-00,no,95,25,choppy window (4 crossings of 50c)
+1791086136,KXBTC15M-26OCT040000-00,no,95,25,choppy window (4 crossings of 50c)
+1791086146,KXBTC15M-26OCT040000-00,no,95,25,choppy window (4 crossings of 50c)
+1791086157,KXBTC15M-26OCT040000-00,no,96,25,choppy window (4 crossings of 50c)
+1791086167,KXBTC15M-26OCT040000-00,no,96,25,choppy window (4 crossings of 50c)
+1791086177,KXBTC15M-26OCT040000-00,no,96,25,choppy window (4 crossings of 50c)
+1791086187,KXBTC15M-26OCT040000-00,no,96,25,choppy window (4 crossings of 50c)
+1791086197,KXBTC15M-26OCT040000-00,no,96,25,choppy window (4 crossings of 50c)
+1791086207,KXBTC15M-26OCT040000-00,no,97,25,choppy window (4 crossings of 50c)
+1791086217,KXBTC15M-26OCT040000-00,no,97,25,choppy window (4 crossings of 50c)
+1791086227,KXBTC15M-26OCT040000-00,no,98,50,choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1791086237,KXBTC15M-26OCT040000-00,no,98,50,choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1791086247,KXBTC15M-26OCT040000-00,no,98,50,choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1791086257,KXBTC15M-26OCT040000-00,no,98,50,choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1791086268,KXBTC15M-26OCT040000-00,no,98,50,choppy window (4 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1791087135,KXBTC15M-26OCT040015-15,no,95,30,only 20s of confirmation
+1791087145,KXBTC15M-26OCT040015-15,no,96,30,only 31s of confirmation
+1791087155,KXBTC15M-26OCT040015-15,no,97,30,only 41s of confirmation
+1791087165,KXBTC15M-26OCT040015-15,no,97,30,only 51s of confirmation
+1791087175,KXBTC15M-26OCT040015-15,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1791087185,KXBTC15M-26OCT040015-15,no,98,25,entry 98c: sample shows 98c+ is overpriced
+1791087205,KXBTC15M-26OCT040015-15,no,98,25,entry 98c: sample shows 98c+ is overpriced
