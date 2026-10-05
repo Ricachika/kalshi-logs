@@ -19185,3 +19185,6 @@ ts,ticker,side,price,risk_score,reasons
 1791175141,KXBTC15M-26OCT050045-45,no,95,30,only 50s of confirmation
 1791175151,KXBTC15M-26OCT050045-45,no,95,0,weak cushion (dist/vol ratio 1.87)
 1791176299,KXBTC15M-26OCT050100-00,no,96,30,weak cushion (dist/vol ratio 1.51); only 20s of confirmation
+1791178636,KXBTC15M-26OCT050145-45,yes,95,30,only 30s of confirmation
+1791178647,KXBTC15M-26OCT050145-45,yes,96,30,only 40s of confirmation
+1791178657,KXBTC15M-26OCT050145-45,yes,96,30,only 51s of confirmation
