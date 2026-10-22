@@ -19626,3 +19626,20 @@ ts,ticker,side,price,risk_score,reasons
 1792684556,KXBTC15M-26OCT221200-00,yes,98,50,choppy window (3 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
 1792685585,KXBTC15M-26OCT221215-15,no,97,55,only 20s of confirmation; choppy window (11 crossings of 50c)
 1792685595,KXBTC15M-26OCT221215-15,no,96,55,only 30s of confirmation; choppy window (11 crossings of 50c)
+1792686362,KXBTC15M-26OCT221230-30,yes,96,30,weak cushion (dist/vol ratio 1.81); only 10s of confirmation
+1792686382,KXBTC15M-26OCT221230-30,yes,96,30,weak cushion (dist/vol ratio 1.70); only 30s of confirmation
+1792686392,KXBTC15M-26OCT221230-30,yes,97,30,weak cushion (dist/vol ratio 1.87); only 40s of confirmation
+1792686403,KXBTC15M-26OCT221230-30,yes,97,30,weak cushion (dist/vol ratio 1.80); only 50s of confirmation
+1792686423,KXBTC15M-26OCT221230-30,yes,95,0,weak cushion (dist/vol ratio 1.42)
+1792686433,KXBTC15M-26OCT221230-30,yes,96,0,weak cushion (dist/vol ratio 1.47)
+1792686443,KXBTC15M-26OCT221230-30,yes,96,0,weak cushion (dist/vol ratio 1.75)
+1792686453,KXBTC15M-26OCT221230-30,yes,96,0,weak cushion (dist/vol ratio 1.76)
+1792686463,KXBTC15M-26OCT221230-30,yes,97,0,weak cushion (dist/vol ratio 1.52)
+1792686473,KXBTC15M-26OCT221230-30,yes,97,0,weak cushion (dist/vol ratio 1.42)
+1792686493,KXBTC15M-26OCT221230-30,yes,95,0,weak cushion (dist/vol ratio 1.20)
+1792686503,KXBTC15M-26OCT221230-30,yes,95,0,weak cushion (dist/vol ratio 1.30)
+1792687240,KXBTC15M-26OCT221245-45,no,96,30,weak cushion (dist/vol ratio 1.67); only 30s of confirmation
+1792687260,KXBTC15M-26OCT221245-45,no,96,30,weak cushion (dist/vol ratio 1.80); only 50s of confirmation
+1792689134,KXBTC15M-26OCT221315-15,no,96,25,weak cushion (dist/vol ratio 1.07); choppy window (8 crossings of 50c)
+1792689144,KXBTC15M-26OCT221315-15,no,98,50,weak cushion (dist/vol ratio 1.22); choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
+1792689164,KXBTC15M-26OCT221315-15,no,98,50,weak cushion (dist/vol ratio 1.14); choppy window (8 crossings of 50c); entry 98c: sample shows 98c+ is overpriced
